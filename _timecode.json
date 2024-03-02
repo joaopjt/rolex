@@ -1,0 +1,1246 @@
+{
+  "timecode": [
+    {
+      "hour": "00",
+      "minutes": "00",
+      "seconds": [
+        {
+          "second": "00",
+          "__object__": ""
+        },
+        {
+          "second": "01",
+          "__object__": ""
+        },
+        {
+          "second": "02",
+          "__object__": ""
+        },
+        {
+          "second": "03",
+          "__object__": ""
+        },
+        {
+          "second": "04",
+          "__object__": ""
+        },
+        {
+          "second": "05",
+          "__object__": ""
+        },
+        {
+          "second": "06",
+          "__object__": ""
+        },
+        {
+          "second": "07",
+          "__object__": ""
+        },
+        {
+          "second": "08",
+          "__object__": ""
+        },
+        {
+          "second": "09",
+          "__object__": ""
+        },
+        {
+          "second": "10",
+          "__object__": ""
+        },
+        {
+          "second": "11",
+          "__object__": ""
+        },
+        {
+          "second": "12",
+          "__object__": ""
+        },
+        {
+          "second": "13",
+          "__object__": ""
+        },
+        {
+          "second": "14",
+          "__object__": ""
+        },
+        {
+          "second": "15",
+          "__object__": ""
+        },
+        {
+          "second": "16",
+          "__object__": ""
+        },
+        {
+          "second": "17",
+          "__object__": ""
+        },
+        {
+          "second": "18",
+          "__object__": ""
+        },
+        {
+          "second": "19",
+          "__object__": ""
+        },
+        {
+          "second": "20",
+          "__object__": ""
+        },
+        {
+          "second": "21",
+          "__object__": ""
+        },
+        {
+          "second": "22",
+          "__object__": ""
+        },
+        {
+          "second": "23",
+          "__object__": ""
+        },
+        {
+          "second": "24",
+          "__object__": ""
+        },
+        {
+          "second": "25",
+          "__object__": ""
+        },
+        {
+          "second": "26",
+          "__object__": ""
+        },
+        {
+          "second": "27",
+          "__object__": ""
+        },
+        {
+          "second": "28",
+          "__object__": ""
+        },
+        {
+          "second": "29",
+          "__object__": ""
+        },
+        {
+          "second": "30",
+          "__object__": ""
+        },
+        {
+          "second": "31",
+          "__object__": ""
+        },
+        {
+          "second": "32",
+          "__object__": ""
+        },
+        {
+          "second": "33",
+          "__object__": ""
+        },
+        {
+          "second": "34",
+          "__object__": ""
+        },
+        {
+          "second": "35",
+          "__object__": ""
+        },
+        {
+          "second": "36",
+          "__object__": ""
+        },
+        {
+          "second": "37",
+          "__object__": ""
+        },
+        {
+          "second": "38",
+          "__object__": ""
+        },
+        {
+          "second": "39",
+          "__object__": ""
+        },
+        {
+          "second": "40",
+          "__object__": ""
+        },
+        {
+          "second": "41",
+          "__object__": ""
+        },
+        {
+          "second": "42",
+          "__object__": ""
+        },
+        {
+          "second": "43",
+          "__object__": ""
+        },
+        {
+          "second": "44",
+          "__object__": ""
+        },
+        {
+          "second": "45",
+          "__object__": ""
+        },
+        {
+          "second": "46",
+          "__object__": ""
+        },
+        {
+          "second": "47",
+          "__object__": ""
+        },
+        {
+          "second": "48",
+          "__object__": ""
+        },
+        {
+          "second": "49",
+          "__object__": ""
+        },
+        {
+          "second": "50",
+          "__object__": ""
+        },
+        {
+          "second": "51",
+          "__object__": ""
+        },
+        {
+          "second": "52",
+          "__object__": ""
+        },
+        {
+          "second": "53",
+          "__object__": ""
+        },
+        {
+          "second": "54",
+          "__object__": ""
+        },
+        {
+          "second": "55",
+          "__object__": ""
+        },
+        {
+          "second": "56",
+          "__object__": ""
+        },
+        {
+          "second": "57",
+          "__object__": ""
+        },
+        {
+          "second": "58",
+          "__object__": ""
+        },
+        {
+          "second": "59",
+          "__object__": ""
+        },
+      ]
+    },
+    {
+      "hour": "00",
+      "minutes": "01",
+      "seconds": [
+        {
+          "second": "00",
+          "__object__": "United States of América"
+        },
+        {
+          "second": "01",
+          "__object__": "United Kingdom"
+        },
+        {
+          "second": "02",
+          "__object__": "Ukraine"
+        },
+        {
+          "second": "03",
+          "__object__": "Germany"
+        },
+        {
+          "second": "04",
+          "__object__": "France"
+        },
+        {
+          "second": "05",
+          "__object__": "Austria"
+        },
+        {
+          "second": "06",
+          "__object__": "Spain"
+        },
+        {
+          "second": "07",
+          "__object__": "Portugal"
+        },
+        {
+          "second": "08",
+          "__object__": "Romania"
+        },
+        {
+          "second": "09",
+          "__object__": "Greece"
+        },
+        {
+          "second": "10",
+          "__object__": "Czechia"
+        },
+        {
+          "second": "11",
+          "__object__": "Italy"
+        },
+        {
+          "second": "12",
+          "__object__": "Ireland"
+        },
+        {
+          "second": "13",
+          "__object__": "Belgium"
+        },
+        {
+          "second": "14",
+          "__object__": "Netherlands"
+        },
+        {
+          "second": "15",
+          "__object__": "Croatia"
+        },
+        {
+          "second": "16",
+          "__object__": "Serbia"
+        },
+        {
+          "second": "17",
+          "__object__": "North Macedonia"
+        },
+        {
+          "second": "18",
+          "__object__": "Kosovo"
+        },
+        {
+          "second": "19",
+          "__object__": "Montenegro"
+        },
+        {
+          "second": "20",
+          "__object__": "Bosnia and Herzegovina"
+        },
+        {
+          "second": "21",
+          "__object__": "Slovenia"
+        },
+        {
+          "second": "22",
+          "__object__": "Belarus"
+        },
+        {
+          "second": "23",
+          "__object__": "Lithuania"
+        },
+        {
+          "second": "24",
+          "__object__": "Latvia"
+        },
+        {
+          "second": "25",
+          "__object__": "Estonia"
+        },
+        {
+          "second": "26",
+          "__object__": "Poland"
+        },
+        {
+          "second": "27",
+          "__object__": "Sweden"
+        },
+        {
+          "second": "28",
+          "__object__": "Norway"
+        },
+        {
+          "second": "29",
+          "__object__": "Finland"
+        },
+        {
+          "second": "30",
+          "__object__": "Bulgaria"
+        },
+        {
+          "second": "31",
+          "__object__": "Russia"
+        },
+        {
+          "second": "32",
+          "__object__": "Turkiye"
+        },
+        {
+          "second": "33",
+          "__object__": "Georgia"
+        },
+        {
+          "second": "34",
+          "__object__": "Armenia"
+        },
+        {
+          "second": "35",
+          "__object__": "Azerbaijan"
+        },
+        {
+          "second": "36",
+          "__object__": "Iran"
+        },
+        {
+          "second": "37",
+          "__object__": "Syria"
+        },
+        {
+          "second": "38",
+          "__object__": "Iraq"
+        },
+        {
+          "second": "39",
+          "__object__": "Saudi Arabia"
+        },
+        {
+          "second": "40",
+          "__object__": "Oman"
+        },
+        {
+          "second": "41",
+          "__object__": "Yemen"
+        },
+        {
+          "second": "42",
+          "__object__": "Israel"
+        },
+        {
+          "second": "43",
+          "__object__": "Jordan"
+        },
+        {
+          "second": "44",
+          "__object__": "Egypt"
+        },
+        {
+          "second": "45",
+          "__object__": "Libya"
+        },
+        {
+          "second": "46",
+          "__object__": "Sudan"
+        },
+        {
+          "second": "47",
+          "__object__": "Eritrea"
+        },
+        {
+          "second": "48",
+          "__object__": "Ethiopia"
+        },
+        {
+          "second": "49",
+          "__object__": "Djibouti"
+        },
+        {
+          "second": "50",
+          "__object__": "Somalia"
+        },
+        {
+          "second": "51",
+          "__object__": "Kenya"
+        },
+        {
+          "second": "52",
+          "__object__": "Tanzania"
+        },
+        {
+          "second": "53",
+          "__object__": "Mozambique"
+        },
+        {
+          "second": "54",
+          "__object__": "South Sudan"
+        },
+        {
+          "second": "55",
+          "__object__": "Democratic Republic of the Congo"
+        },
+        {
+          "second": "56",
+          "__object__": "Chad"
+        },
+        {
+          "second": "57",
+          "__object__": "Central African Republic"
+        },
+        {
+          "second": "58",
+          "__object__": "Algeria"
+        },
+        {
+          "second": "59",
+          "__object__": "Morocco"
+        },
+      ]
+    },
+    {
+      "hour": "00",
+      "minutes": "02",
+      "seconds": [
+        {
+          "second": "00",
+          "__object__": "Georgia"
+        },
+        {
+          "second": "01",
+          "__object__": "Azerbaijan"
+        },
+        {
+          "second": "02",
+          "__object__": "Armenia"
+        },
+        {
+          "second": "03",
+          "__object__": "Iran"
+        },
+        {
+          "second": "04",
+          "__object__": "Turkmenistan"
+        },
+        {
+          "second": "05",
+          "__object__": "Uzbekistan"
+        },
+        {
+          "second": "06",
+          "__object__": "Kazakhstan"
+        },
+        {
+          "second": "06",
+          "__object__": "Pakistan"
+        },
+        {
+          "second": "07",
+          "__object__": "India"
+        },
+        {
+          "second": "08",
+          "__object__": "Afghanistan"
+        },
+        {
+          "second": "09",
+          "__object__": "Tajikistan"
+        },
+        {
+          "second": "10",
+          "__object__": "Kyrgyztan"
+        },
+        {
+          "second": "11",
+          "__object__": "Mongolia"
+        },
+        {
+          "second": "12",
+          "__object__": "Nepal"
+        },
+        {
+          "second": "13",
+          "__object__": "Bhutan"
+        },
+        {
+          "second": "14",
+          "__object__": "Bangladesh"
+        },
+        {
+          "second": "15",
+          "__object__": "Myanmar (Burma)"
+        },
+        {
+          "second": "16",
+          "__object__": "Laos"
+        },
+        {
+          "second": "17",
+          "__object__": "Thailand"
+        },
+        {
+          "second": "18",
+          "__object__": "Vietnam"
+        },
+        {
+          "second": "19",
+          "__object__": "Cambodia"
+        },
+        {
+          "second": "20",
+          "__object__": "Malaysia"
+        },
+        {
+          "second": "21",
+          "__object__": "China"
+        },
+        {
+          "second": "22",
+          "__object__": "Indonesia"
+        },
+        {
+          "second": "23",
+          "__object__": "Phillipines"
+        },
+        {
+          "second": "24",
+          "__object__": "Papua New Guinea"
+        },
+        {
+          "second": "25",
+          "__object__": "Australia"
+        },
+        {
+          "second": "26",
+          "__object__": "Solomon Islands"
+        },
+        {
+          "second": "27",
+          "__object__": "New Caledonia"
+        },
+        {
+          "second": "28",
+          "__object__": "Fiji"
+        },
+        {
+          "second": "29",
+          "__object__": "Samoa"
+        },
+        {
+          "second": "30",
+          "__object__": "Tonga"
+        },
+        {
+          "second": "31",
+          "__object__": "Cook Islands"
+        },
+        {
+          "second": "32",
+          "__object__": "French Polynesia"
+        },
+        {
+          "second": "33",
+          "__object__": "New Zealand"
+        },
+        {
+          "second": "34",
+          "__object__": "Hawaii"
+        },
+        {
+          "second": "35",
+          "__object__": "United States"
+        },
+        {
+          "second": "36",
+          "__object__": "Canada"
+        },
+        {
+          "second": "37",
+          "__object__": "Mexico"
+        },
+        {
+          "second": "38",
+          "__object__": "Guatemala"
+        },
+        {
+          "second": "39",
+          "__object__": "Honduras"
+        },
+        {
+          "second": "40",
+          "__object__": "Nicaragua"
+        },
+        {
+          "second": "41",
+          "__object__": "Costa Rica"
+        },
+        {
+          "second": "42",
+          "__object__": "Panama"
+        },
+        {
+          "second": "43",
+          "__object__": "Cuba"
+        },
+        {
+          "second": "44",
+          "__object__": "Dominican Republic"
+        },
+        {
+          "second": "45",
+          "__object__": "Puerto Rico"
+        },
+        {
+          "second": "46",
+          "__object__": "Colombia"
+        },
+        {
+          "second": "47",
+          "__object__": "Venezuela"
+        },
+        {
+          "second": "48",
+          "__object__": "Guyana"
+        },
+        {
+          "second": "49",
+          "__object__": "Suriname"
+        },
+        {
+          "second": "50",
+          "__object__": "French Guiana"
+        },
+        {
+          "second": "51",
+          "__object__": "Ecuador"
+        },
+        {
+          "second": "52",
+          "__object__": "Peru"
+        },
+        {
+          "second": "53",
+          "__object__": "Bolivia"
+        },
+        {
+          "second": "54",
+          "__object__": "Chile"
+        },
+        {
+          "second": "55",
+          "__object__": "Paraguay"
+        },
+        {
+          "second": "56",
+          "__object__": "Argentina"
+        },
+        {
+          "second": "57",
+          "__object__": "Uruguay"
+        },
+        {
+          "second": "58",
+          "__object__": "Brazil"
+        },
+        {
+          "second": "59",
+          "__object__": "Antarctica"
+        },
+      ]
+    },
+    {
+      "hour": "00",
+      "minutes": "03",
+      "seconds": [
+        {
+          "second": "00",
+          "__object__": "Nigeria"
+        },
+        {
+          "second": "01",
+          "__object__": "Benin"
+        },
+        {
+          "second": "02",
+          "__object__": "Togo"
+        },
+        {
+          "second": "03",
+          "__object__": "Ghana"
+        },
+        {
+          "second": "04",
+          "__object__": "Côte d'Ivoire"
+        },
+        {
+          "second": "05",
+          "__object__": "Liberia"
+        },
+        {
+          "second": "06",
+          "__object__": "Guinea"
+        },
+        {
+          "second": "06",
+          "__object__": "Sierra Leone"
+        },
+        {
+          "second": "07",
+          "__object__": "Guinea-Bissau"
+        },
+        {
+          "second": "08",
+          "__object__": "Gambia"
+        },
+        {
+          "second": "09",
+          "__object__": "Senegal"
+        },
+        {
+          "second": "10",
+          "__object__": "Mauritania"
+        },
+        {
+          "second": "11",
+          "__object__": "Western Sahara"
+        },
+        {
+          "second": "12",
+          "__object__": "Morocco"
+        },
+        {
+          "second": "13",
+          "__object__": "Algeria"
+        },
+        {
+          "second": "14",
+          "__object__": "Mali"
+        },
+        {
+          "second": "15",
+          "__object__": "Niger"
+        },
+        {
+          "second": "16",
+          "__object__": "Cameroon"
+        },
+        {
+          "second": "17",
+          "__object__": "Chad"
+        },
+        {
+          "second": "18",
+          "__object__": "Libya"
+        },
+        {
+          "second": "19",
+          "__object__": "Tunisia"
+        },
+        {
+          "second": "20",
+          "__object__": "Egypt"
+        },
+        {
+          "second": "21",
+          "__object__": "Sudan"
+        },
+        {
+          "second": "22",
+          "__object__": "Eritrea"
+        },
+        {
+          "second": "23",
+          "__object__": "Ethiopia"
+        },
+        {
+          "second": "24",
+          "__object__": "South Sudan"
+        },
+        {
+          "second": "25",
+          "__object__": "Central African Republic"
+        },
+        {
+          "second": "26",
+          "__object__": "Republic of the Congo"
+        },
+        {
+          "second": "27",
+          "__object__": "Equatorial Guinea"
+        },
+        {
+          "second": "28",
+          "__object__": "Gabon"
+        },
+        {
+          "second": "29",
+          "__object__": "Somalia"
+        },
+        {
+          "second": "30",
+          "__object__": "Uganda"
+        },
+        {
+          "second": "31",
+          "__object__": "Kenya"
+        },
+        {
+          "second": "32",
+          "__object__": "Tanzania"
+        },
+        {
+          "second": "33",
+          "__object__": "Zambia"
+        },
+        {
+          "second": "34",
+          "__object__": "Angola"
+        },
+        {
+          "second": "35",
+          "__object__": "Mozambique"
+        },
+        {
+          "second": "36",
+          "__object__": "Malawi"
+        },
+        {
+          "second": "37",
+          "__object__": "Botswana"
+        },
+        {
+          "second": "38",
+          "__object__": "Namibia"
+        },
+        {
+          "second": "39",
+          "__object__": "Eswatini"
+        },
+        {
+          "second": "40",
+          "__object__": "Lesotho"
+        },
+        {
+          "second": "41",
+          "__object__": "South Africa"
+        },
+        {
+          "second": "42",
+          "__object__": "United Arab Emirates"
+        },
+        {
+          "second": "43",
+          "__object__": "Oman"
+        },
+        {
+          "second": "44",
+          "__object__": "Yemen"
+        },
+        {
+          "second": "45",
+          "__object__": "Saudi Arabia"
+        },
+        {
+          "second": "46",
+          "__object__": "Qatar"
+        },
+        {
+          "second": "47",
+          "__object__": "Bahrain"
+        },
+        {
+          "second": "48",
+          "__object__": "Kuwait"
+        },
+        {
+          "second": "49",
+          "__object__": "Iraq"
+        },
+        {
+          "second": "50",
+          "__object__": "Jordan"
+        },
+        {
+          "second": "51",
+          "__object__": "Israel"
+        },
+        {
+          "second": "52",
+          "__object__": "Syria"
+        },
+        {
+          "second": "53",
+          "__object__": "Lebanon"
+        },
+        {
+          "second": "54",
+          "__object__": "Turkiye"
+        },
+        {
+          "second": "55",
+          "__object__": "Georgia"
+        },
+        {
+          "second": "56",
+          "__object__": "Azerbaijan"
+        },
+        {
+          "second": "57",
+          "__object__": "Armenia"
+        },
+        {
+          "second": "58",
+          "__object__": "Iran"
+        },
+        {
+          "second": "59",
+          "__object__": "Pakistan"
+        },
+      ]
+    },
+    {
+      "hour": "00",
+      "minutes": "04",
+      "seconds": [
+        {
+          "second": "00",
+          "__object__": "North Korea"
+        },
+        {
+          "second": "01",
+          "__object__": "Russia"
+        },
+        {
+          "second": "02",
+          "__object__": "Sweden"
+        },
+        {
+          "second": "03",
+          "__object__": "Finland"
+        },
+        {
+          "second": "04",
+          "__object__": "Norway"
+        },
+        {
+          "second": "05",
+          "__object__": "Finland"
+        },
+        {
+          "second": "06",
+          "__object__": "Ukraine"
+        },
+        {
+          "second": "06",
+          "__object__": "Belarus"
+        },
+        {
+          "second": "07",
+          "__object__": "Latvia"
+        },
+        {
+          "second": "08",
+          "__object__": "Estonia"
+        },
+        {
+          "second": "09",
+          "__object__": "Romania"
+        },
+        {
+          "second": "10",
+          "__object__": "Moldova"
+        },
+        {
+          "second": "11",
+          "__object__": "Bulgaria"
+        },
+        {
+          "second": "12",
+          "__object__": "Greece"
+        },
+        {
+          "second": "13",
+          "__object__": "Serbia"
+        },
+        {
+          "second": "14",
+          "__object__": "Hungary"
+        },
+        {
+          "second": "15",
+          "__object__": "Slovakia"
+        },
+        {
+          "second": "16",
+          "__object__": "Poland"
+        },
+        {
+          "second": "17",
+          "__object__": "Lithuania"
+        },
+        {
+          "second": "18",
+          "__object__": "Denmark"
+        },
+        {
+          "second": "19",
+          "__object__": "Croatia"
+        },
+        {
+          "second": "20",
+          "__object__": "Albania"
+        },
+        {
+          "second": "21",
+          "__object__": "Montenegro"
+        },
+        {
+          "second": "22",
+          "__object__": "Bosnia and Herzegovina"
+        },
+        {
+          "second": "23",
+          "__object__": "Croatia"
+        },
+        {
+          "second": "24",
+          "__object__": "Slovenia"
+        },
+        {
+          "second": "25",
+          "__object__": "Austria"
+        },
+        {
+          "second": "26",
+          "__object__": "Turkiye"
+        },
+        {
+          "second": "27",
+          "__object__": "Georgia"
+        },
+        {
+          "second": "28",
+          "__object__": "Azerbaijan"
+        },
+        {
+          "second": "29",
+          "__object__": "Armenia"
+        },
+        {
+          "second": "30",
+          "__object__": "Iran"
+        },
+        {
+          "second": "31",
+          "__object__": "Iraq"
+        },
+        {
+          "second": "32",
+          "__object__": "Syria"
+        },
+        {
+          "second": "33",
+          "__object__": "Saudi Arabia"
+        },
+        {
+          "second": "34",
+          "__object__": "Kuwait"
+        },
+        {
+          "second": "35",
+          "__object__": "Jordan"
+        },
+        {
+          "second": "36",
+          "__object__": "Lebanon"
+        },
+        {
+          "second": "37",
+          "__object__": "United Arab Emirates"
+        },
+        {
+          "second": "38",
+          "__object__": "Oman"
+        },
+        {
+          "second": "39",
+          "__object__": "Yemen"
+        },
+        {
+          "second": "40",
+          "__object__": "Bahrain"
+        },
+        {
+          "second": "41",
+          "__object__": "Turkmenistan"
+        },
+        {
+          "second": "42",
+          "__object__": "Uzbekistan"
+        },
+        {
+          "second": "43",
+          "__object__": "Afghanistan"
+        },
+        {
+          "second": "44",
+          "__object__": "Pakistan"
+        },
+        {
+          "second": "45",
+          "__object__": "Kyrgyztan"
+        },
+        {
+          "second": "46",
+          "__object__": "Kazakhstan"
+        },
+        {
+          "second": "47",
+          "__object__": "China"
+        },
+        {
+          "second": "48",
+          "__object__": "Vietnam"
+        },
+        {
+          "second": "49",
+          "__object__": "Myanmar"
+        },
+        {
+          "second": "50",
+          "__object__": "India"
+        },
+        {
+          "second": "51",
+          "__object__": "Tajikistan"
+        },
+        {
+          "second": "52",
+          "__object__": "Bangladesh"
+        },
+        {
+          "second": "53",
+          "__object__": "Bhutan"
+        },
+        {
+          "second": "54",
+          "__object__": "Nepal"
+        },
+        {
+          "second": "55",
+          "__object__": "Laos"
+        },
+        {
+          "second": "56",
+          "__object__": "Thailand"
+        },
+        {
+          "second": "57",
+          "__object__": "Laos"
+        },
+        {
+          "second": "58",
+          "__object__": "Cambodia"
+        },
+        {
+          "second": "59",
+          "__object__": "South Korea"
+        },
+      ]
+    }
+  ]
+}
