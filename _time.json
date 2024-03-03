@@ -2983,6 +2983,16 @@
       ]
     },
     {
+      "hour": "01",
+      "minutes": ["00"],
+      "seconds": { "__object__": "KND Codename: Kidz next door" }
+    },
+    {
+      "hour": "02",
+      "minutes": ["00"],
+      "seconds": { "__object__": "Kick Buttowski" }
+    },
+    {
       "hour": "03",
       "minutes": "00",
       "seconds": [
@@ -3229,9 +3239,20 @@
       ]
     },
     {
+      "hour": "04",
+      "minutes": ["00"],
+      "seconds": { "__object__": "Black Sabbath - 13 (Album)" }
+    },
+    {
+
+      "hour": "05",
+      "minutes": ["00"],
+      "seconds": { "__object__": "Nelly Furtado - Say it right" }
+    },
+    {
       "hour": "06",
       "minutes": ["00"],
-      "seconds": { "__object__": "Black Eyed Peas - Pump It" }
+      "seconds": { "__object__": "Pink Floyd - The dark side of the moon (Album)" }
     },
     {
       "hour": "07",
@@ -3813,6 +3834,21 @@
           "__object__": "Antoine de Saint-Exupéry - Le Petit Prince"
         },
       ]
+    },
+    {
+      "hour": "09",
+      "minutes": "00",
+      "seconds": { "__object__": "Stephan Bodzin - Powers of ten (Album)" }
+    },
+    {
+      "hour": "10",
+      "minutes": "00",
+      "seconds": { "__object__": "Gabe - Collection Vol. 1 [Zero Eleven Music]" }
+    },
+    {
+      "hour": "11",
+      "minutes": "00",
+      "seconds": { "__object__": "Sabrina Carpenter - emails i can't send fwd: (Album)" }
     },
     {
       "hour": "12",
@@ -5047,7 +5083,22 @@
     {
       "hour": "19",
       "minutes": "00",
-      "seconds": { "__object__": "com.soundcloud.android" }
+      "seconds": { "__object__": "https://soundcloud.com/trommelmusic" }
+    },
+    {
+      "hour": "20",
+      "minutes": "00",
+      "seconds": { "__object__": "https://soundcloud.com/ricardo-villalobos-official" }
+    },
+    {
+      "hour": "21",
+      "minutes": "00",
+      "seconds": { "__object__": "https://soundcloud.com/meoko" }
+    },
+    {
+      "hour": "22",
+      "minutes": "00",
+      "seconds": { "__object__": "https://soundcloud.com/playedby" }
     },
     {
       "hour": "23",
