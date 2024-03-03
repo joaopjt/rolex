@@ -3229,6 +3229,11 @@
       ]
     },
     {
+      "hour": "06",
+      "minutes": ["00"],
+      "seconds": { "__object__": "Black Eyed Peas - Pump It" }
+    },
+    {
       "hour": "07",
       "minutes": ["00"\-"59"],
       "seconds": [
