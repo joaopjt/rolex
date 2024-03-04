@@ -2706,6 +2706,251 @@
       ]
     },
     {
+      "minutes": "11",
+      "seconds": [
+        {
+          "second": "00",
+          "__object__": "Kazan"
+        },
+        {
+          "second": "01",
+          "__object__": "Moscow"
+        },
+        {
+          "second": "02",
+          "__object__": "Syktyvkar"
+        },
+        {
+          "second": "03",
+          "__object__": "Yaroslavl"
+        },
+        {
+          "second": "04",
+          "__object__": "Koryazhma"
+        },
+        {
+          "second": "05",
+          "__object__": "Vologda"
+        },
+        {
+          "second": "06",
+          "__object__": "Ulyanovsk"
+        },
+        {
+          "second": "07",
+          "__object__": "St Petersburg"
+        },
+        {
+          "second": "08",
+          "__object__": "Petrozavodsk"
+        },
+        {
+          "second": "09",
+          "__object__": "Saratov"
+        },
+        {
+          "second": "10",
+          "__object__": "Krasnodar"
+        },
+        {
+          "second": "11",
+          "__object__": "Makhachkala"
+        },
+        {
+          "second": "12",
+          "__object__": "Nalchik"
+        },
+        {
+          "second": "13",
+          "__object__": "Astrakhan"
+        },
+        {
+          "second": "14",
+          "__object__": "Volgograd"
+        },
+        {
+          "second": "15",
+          "__object__": "Volgodonsk"
+        },
+        {
+          "second": "16",
+          "__object__": "Elista"
+        },
+        {
+          "second": "17",
+          "__object__": "Stavropol"
+        },
+        {
+          "second": "18",
+          "__object__": "Derbent"
+        },
+        {
+          "second": "19",
+          "__object__": "Grozny"
+        },
+        {
+          "second": "20",
+          "__object__": "Komsomol'skii"
+        },
+        {
+          "second": "21",
+          "__object__": "Enotaevka"
+        },
+        {
+          "second": "22",
+          "__object__": "Astrakhan"
+        },
+        {
+          "second": "23",
+          "__object__": "Kochubei"
+        },
+        {
+          "second": "24",
+          "__object__": "Russkii Khutor"
+        },
+        {
+          "second": "25",
+          "__object__": "Akhtubinsk"
+        },
+        {
+          "second": "26",
+          "__object__": "Bakhanay"
+        },
+        {
+          "second": "27",
+          "__object__": "Narimanov"
+        },
+        {
+          "second": "28",
+          "__object__": "Voronezh"
+        },
+        {
+          "second": "29",
+          "__object__": "Kursk"
+        },
+        {
+          "second": "30",
+          "__object__": "Rylsk"
+        },
+        {
+          "second": "31",
+          "__object__": "Lgov"
+        },
+        {
+          "second": "32",
+          "__object__": "Shustovo"
+        },
+        {
+          "second": "33",
+          "__object__": "Gorshechnoye"
+        },
+        {
+          "second": "34",
+          "__object__": "Novy Oskol"
+        },
+        {
+          "second": "35",
+          "__object__": "Rep'evka"
+        },
+        {
+          "second": "36",
+          "__object__": "Tyumen"
+        },
+        {
+          "second": "37",
+          "__object__": "Omsk"
+        },
+        {
+          "second": "38",
+          "__object__": "Novosibirsk"
+        },
+        {
+          "second": "39",
+          "__object__": "Krasnoyarsk"
+        },
+        {
+          "second": "40",
+          "__object__": "Bratsk"
+        },
+        {
+          "second": "41",
+          "__object__": "Yakutsk"
+        },
+        {
+          "second": "42",
+          "__object__": "Saskylakh"
+        },
+        {
+          "second": "43",
+          "__object__": "Srednekolymsk"
+        },
+        {
+          "second": "44",
+          "__object__": "Omsukchan"
+        },
+        {
+          "second": "45",
+          "__object__": "Khabarovsk"
+        },
+        {
+          "second": "46",
+          "__object__": "Nakhodka"
+        },
+        {
+          "second": "47",
+          "__object__": "Solov'evsk"
+        },
+        {
+          "second": "48",
+          "__object__": "Chita"
+        },
+        {
+          "second": "49",
+          "__object__": "Ulan-Ude"
+        },
+        {
+          "second": "50",
+          "__object__": "Khilok"
+        },
+        {
+          "second": "51",
+          "__object__": "Linevo Ozero"
+        },
+        {
+          "second": "52",
+          "__object__": "Khanty-Mansiysk"
+        },
+        {
+          "second": "53",
+          "__object__": "Sennoi"
+        },
+        {
+          "second": "54",
+          "__object__": "Yablonovsky"
+        },
+        {
+          "second": "55",
+          "__object__": "Maykop"
+        },
+        {
+          "second": "56",
+          "__object__": "Armavir"
+        },
+        {
+          "second": "57",
+          "__object__": "Rostov-on-Don"
+        },
+        {
+          "second": "58",
+          "__object__": "Kushchyovskaya"
+        },
+        {
+          "second": "59",
+          "__object__": "Salsk"
+        },
+      ]
+    },
+    {
       "minutes": "59",
       "seconds": { "__object__": "Legião Urbana - Mais do Mesmo (Album)" }
     }
