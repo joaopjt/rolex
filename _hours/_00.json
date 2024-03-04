@@ -1,7 +1,7 @@
 {
-  "time": [
+  "hour": "00",
+  "minutes": [
     {
-      "hour": "00",
       "minutes": "00",
       "seconds": [
         {
@@ -247,7 +247,6 @@
       ]
     },
     {
-      "hour": "00",
       "minutes": "01",
       "seconds": [
         {
@@ -493,7 +492,6 @@
       ]
     },
     {
-      "hour": "00",
       "minutes": "02",
       "seconds": [
         {
@@ -739,253 +737,251 @@
       ]
     },
     {
-      "hour": "00",
       "minutes": "03",
       "seconds": [
         {
           "second": "00",
-          "__object__": "西安市 - Astana"
+          "__object__": "西安市 (Astana)"
         },
         {
           "second": "01",
-          "__object__": "兰州市 - Karaganda"
+          "__object__": "兰州市 (Karaganda)"
         },
         {
           "second": "02",
-          "__object__": "延安市 - Kievka"
+          "__object__": "延安市 (Kievka)"
         },
         {
           "second": "03",
-          "__object__": "固原市 - Osakarovka"
+          "__object__": "固原市 (Osakarovka)"
         },
         {
           "second": "04",
-          "__object__": "榆林市 - Molodezhnyy"
+          "__object__": "榆林市 (Molodezhnyy)"
         },
         {
           "second": "05",
-          "__object__": "银川市 - Shiderty"
+          "__object__": "银川市 (Shiderty)"
         },
         {
           "second": "06",
-          "__object__": "巴彦淖尔市 - Bayet"
+          "__object__": "巴彦淖尔市 (Bayet)"
         },
         {
           "second": "07",
-          "__object__": "赤峰市 - Ekibastuz"
+          "__object__": "赤峰市 (Ekibastuz)"
         },
         {
           "second": "08",
-          "__object__": "石家庄市 - Karagandyozek"
+          "__object__": "石家庄市 (Karagandyozek)"
         },
         {
           "second": "09",
-          "__object__": "吕梁市 - Sarykiyak"
+          "__object__": "吕梁市 (Sarykiyak)"
         },
         {
           "second": "10",
-          "__object__": "大同市 - Karashoky"
+          "__object__": "大同市 (Karashoky)"
         },
         {
           "second": "11",
-          "__object__": "张家口市 - Maykain"
+          "__object__": "张家口市 (Maykain)"
         },
         {
           "second": "12",
-          "__object__": "太原市 - Shoptykol"
+          "__object__": "太原市 (Shoptykol)"
         },
         {
           "second": "13",
-          "__object__": "石家庄市 - Karasor"
+          "__object__": "石家庄市 (Karasor)"
         },
         {
           "second": "14",
-          "__object__": "济南市 - Bayanaul"
+          "__object__": "济南市 (Bayanaul)"
         },
         {
           "second": "15",
-          "__object__": "淄博市 - Kyzylasker"
+          "__object__": "淄博市 (Kyzylasker)"
         },
         {
           "second": "16",
-          "__object__": "烟台市 - Tendyk"
+          "__object__": "烟台市 (Tendyk)"
         },
         {
           "second": "17",
-          "__object__": "盐城市 - Karaaschi"
+          "__object__": "盐城市 (Karaaschi)"
         },
         {
           "second": "18",
-          "__object__": "上海市 - Tortkol"
+          "__object__": "上海市 (Tortkol)"
         },
         {
           "second": "19",
-          "__object__": "镇江市 - Umutker"
+          "__object__": "镇江市 (Umutker)"
         },
         {
           "second": "20",
-          "__object__": "连云港市 - Bel'agash"
+          "__object__": "连云港市 (Bel)'agash"
         },
         {
           "second": "21",
-          "__object__": "威海市 - Zhanatlek"
+          "__object__": "威海市 (Zhanatlek)"
         },
         {
           "second": "22",
-          "__object__": "哈尔滨市 - Ozernoe"
+          "__object__": "哈尔滨市 (Ozernoe)"
         },
         {
           "second": "23",
-          "__object__": "呼伦贝尔市 - Semizbuga"
+          "__object__": "呼伦贝尔市 (Semizbuga)"
         },
         {
           "second": "24",
-          "__object__": "丹东市 - Zhayma"
+          "__object__": "丹东市 (Zhayma)"
         },
         {
           "second": "25",
-          "__object__": "朝阳市 - Chaoyang, Liaoning"
+          "__object__": "朝阳市 (Chaoyang), Liaoning"
         },
         {
           "second": "26",
-          "__object__": "北京市 - Beijing"
+          "__object__": "北京市 (Beijing)"
         },
         {
           "second": "27",
-          "__object__": "大连市 - Dalian"
+          "__object__": "大连市 (Dalian)"
         },
         {
           "second": "28",
-          "__object__": "潍坊市 - Weifang"
+          "__object__": "潍坊市 (Weifang)"
         },
         {
           "second": "29",
-          "__object__": "南通市 - Nantong"
+          "__object__": "南通市 (Nantong)"
         },
         {
           "second": "30",
-          "__object__": "南京市 - Nanjing"
+          "__object__": "南京市 (Nanjing)"
         },
         {
           "second": "31",
-          "__object__": "扬州市 - Yangzou"
+          "__object__": "扬州市 (Yangzou)"
         },
         {
           "second": "32",
-          "__object__": "舟山市 - Zhoushan"
+          "__object__": "舟山市 (Zhoushan)"
         },
         {
           "second": "33",
-          "__object__": "抚州市 - Fuzhou"
+          "__object__": "抚州市 (Fuzhou)"
         },
         {
           "second": "34",
-          "__object__": "吉安市 - Ji'An"
+          "__object__": "吉安市 (Ji)'An"
         },
         {
           "second": "35",
-          "__object__": "肇庆市 - Zhaoqing"
+          "__object__": "肇庆市 (Zhaoqing)"
         },
         {
           "second": "36",
-          "__object__": "桂林市 - Guilin"
+          "__object__": "桂林市 (Guilin)"
         },
         {
           "second": "37",
-          "__object__": "香港 - Hong Kong"
+          "__object__": "香港 (Hong) Kong"
         },
         {
           "second": "38",
-          "__object__": "南宁市 - Nanning"
+          "__object__": "南宁市 (Nanning)"
         },
         {
           "second": "39",
-          "__object__": "湛江市 - Zhanjiang"
+          "__object__": "湛江市 (Zhanjiang)"
         },
         {
           "second": "40",
-          "__object__": "海口市 - Haikou"
+          "__object__": "海口市 (Haikou)"
         },
         {
           "second": "41",
-          "__object__": "三亚市 - Sanya"
+          "__object__": "三亚市 (Sanya)"
         },
         {
           "second": "42",
-          "__object__": "曲靖市 - Qujing"
+          "__object__": "曲靖市 (Qujing)"
         },
         {
           "second": "43",
-          "__object__": "贵阳市 - Guiyang"
+          "__object__": "贵阳市 (Guiyang)"
         },
         {
           "second": "44",
-          "__object__": "昆明市 - Kinming"
+          "__object__": "昆明市 (Kinming)"
         },
         {
           "second": "45",
-          "__object__": "普洱市 - Puer"
+          "__object__": "普洱市 (Puer)"
         },
         {
           "second": "46",
-          "__object__": "昭通市 - Zhaotong"
+          "__object__": "昭通市 (Zhaotong)"
         },
         {
           "second": "47",
-          "__object__": "遵义市 - Zunyi"
+          "__object__": "遵义市 (Zunyi)"
         },
         {
           "second": "48",
-          "__object__": "泸州市 - Luzhoe"
+          "__object__": "泸州市 (Luzhoe)"
         },
         {
           "second": "49",
-          "__object__": "重庆市 - Chongqing"
+          "__object__": "重庆市 (Chongqing)"
         },
         {
           "second": "50",
-          "__object__": "常德市 - Changde"
+          "__object__": "常德市 (Changde)"
         },
         {
           "second": "51",
-          "__object__": "衡阳市 - Hengyang"
+          "__object__": "衡阳市 (Hengyang)"
         },
         {
           "second": "52",
-          "__object__": "长沙市 - Changsha"
+          "__object__": "长沙市 (Changsha)"
         },
         {
           "second": "53",
-          "__object__": "武汉市 - Wuhan"
+          "__object__": "武汉市 (Wuhan)"
         },
         {
           "second": "54",
-          "__object__": "九江市 - Jiujiang"
+          "__object__": "九江市 (Jiujiang)"
         },
         {
           "second": "55",
-          "__object__": "金华市 - Jinhua"
+          "__object__": "金华市 (Jinhua)"
         },
         {
           "second": "56",
-          "__object__": "温州市 - Wenzhou"
+          "__object__": "温州市 (Wenzhou)"
         },
         {
           "second": "57",
-          "__object__": "宁德市 - Ningde"
+          "__object__": "宁德市 (Ningde)"
         },
         {
           "second": "58",
-          "__object__": "萍乡市 - Pingxiang"
+          "__object__": "萍乡市 (Pingxiang)"
         },
         {
           "second": "59",
-          "__object__": "上饶市 - Shangrao"
+          "__object__": "上饶市 (Shangrao)"
         },
       ]
     },
     {
-      "hour": "00",
       "minutes": "04",
       "seconds": [
         {
@@ -1231,7 +1227,6 @@
       ]
     },
     {
-      "hour": "00",
       "minutes": "05",
       "seconds": [
         {
@@ -1477,7 +1472,6 @@
       ]
     },
     {
-      "hour": "00",
       "minutes": "06",
       "seconds": [
         {
@@ -1723,7 +1717,6 @@
       ]
     },
     {
-      "hour": "00",
       "minutes": "07",
       "seconds": [
         {
@@ -1969,7 +1962,6 @@
       ]
     },
     {
-      "hour": "00",
       "minutes": "08",
       "seconds": [
         {
@@ -2215,7 +2207,6 @@
       ]
     },
     {
-      "hour": "00",
       "minutes": "09",
       "seconds": [
         {
@@ -2461,37 +2452,30 @@
       ]
     },
     {
-      "hour": "00",
       "minutes": "10",
       "seconds": { "__object__": "Totalmente Demais" }
     },
     {
-      "hour": "00",
       "minutes": "11",
       "seconds": { "__object__": "Tapas e Beijos" }
     },
     {
-      "hour": "00",
       "minutes": "12",
       "seconds": { "__object__": "Eta Mundo Bom!" }
     },
     {
-      "hour": "00",
       "minutes": "13",
       "seconds": { "__object__": "Avenida Brasil" }
     },
     {
-      "hour": "00",
       "minutes": "14",
       "seconds": { "__object__": "Império" }
     },
     {
-      "hour": "00",
       "minutes": "15",
       "seconds": { "__object__": "Charlie Brown Jr. - Ritmo, Ritual e Responsa. (Album)" }
     },
     {
-      "hour": "00",
       "minutes": "20",
       "seconds": [
         {
@@ -2737,7 +2721,6 @@
       ]
     },
     {
-      "hour": "00",
       "minutes": "21",
       "seconds": [
         {
@@ -2981,2259 +2964,6 @@
         "__object__": "BBAS3"
         },
       ]
-    },
-    {
-      "hour": "01",
-      "minutes": ["00"],
-      "seconds": { "__object__": "KND Codename: Kidz next door" }
-    },
-    {
-      "hour": "02",
-      "minutes": ["00"],
-      "seconds": { "__object__": "Kick Buttowski" }
-    },
-    {
-      "hour": "03",
-      "minutes": "00",
-      "seconds": [
-        {
-          "second": "00",
-          "__object__": "Rita Lee - Mania de você"
-        },
-        {
-          "second": "01",
-          "__object__": "ROSÉ - On The Ground"
-        },
-        {
-          "second": "02",
-          "__object__": "Hooverphonic - Anger Never Dies"
-        },
-        {
-          "second": "03",
-          "__object__": "Hooverphonic - Romantic"
-        },
-        {
-          "second": "04",
-          "__object__": "Selena Gomez - Love you like a love song"
-        },
-        {
-          "second": "05",
-          "__object__": "Vanessa Hudgens - Say OK"
-        },
-        {
-          "second": "06",
-          "__object__": "JoJo - Too little too late"
-        },
-        {
-          "second": "07",
-          "__object__": "The Pussycat Dolls - I Hate this Part"
-        },
-        {
-          "second": "08",
-          "__object__": "Justin Bieber - Baby"
-        },
-        {
-          "second": "09",
-          "__object__": "Keira Knightley - Lost Stars"
-        },
-        {
-          "second": "10",
-          "__object__": "Jessie J - Price Tag"
-        },
-        {
-          "second": "11",
-          "__object__": "Nelly Furtado - Promiscuous"
-        },
-        {
-          "second": "12",
-          "__object__": "Lifehouse - Central Park"
-        },
-        {
-          "second": "13",
-          "__object__": "Ne-Yo - Because of You"
-        },
-        {
-          "second": "14",
-          "__object__": "Diddy [feat. Keyshia Cole] - Last Night"
-        },
-        {
-          "second": "15",
-          "__object__": "Justin Timberlake - Mirrors"
-        },
-        {
-          "second": "16",
-          "__object__": "Justin Timberlake - Suit and tie"
-        },
-        {
-          "second": "17",
-          "__object__": "Lifehouse - Central Park"
-        },
-        {
-          "second": "18",
-          "__object__": "Nelly Furtado - Say it right"
-        },
-        {
-          "second": "19",
-          "__object__": "Dido - White flag"
-        },
-        {
-          "second": "20",
-          "__object__": "Keane - Everybody's changing"
-        },
-        {
-          "second": "21",
-          "__object__": "Rihanna - Shut up and drive"
-        },
-        {
-          "second": "22",
-          "__object__": "Chris Brown feat. T-Pain - Kiss Kiss"
-        },
-        {
-          "second": "23",
-          "__object__": "Chris Brown - Forever"
-        },
-        {
-          "second": "24",
-          "__object__": "The Black Eyed Peas - Don't lie"
-        },
-        {
-          "second": "25",
-          "__object__": "Bosse - So oder So"
-        },
-        {
-          "second": "26",
-          "__object__": "Tears for Fears - Everybody Wants to Rule the World"
-        },
-        {
-          "second": "27",
-          "__object__": "Sting - If I Ever Lose My Faith in You"
-        },
-        {
-          "second": "28",
-          "__object__": "No Doubt - Don't Speak"
-        },
-        {
-          "second": "29",
-          "__object__": "Foo Fighters - All my life"
-        },
-        {
-          "second": "30",
-          "__object__": "Lenny Kravitz - It Ain't Over 'Til It's Over"
-        },
-        {
-          "second": "31",
-          "__object__": "Jason Marz - 93 Million Miles"
-        },
-        {
-          "second": "32",
-          "__object__": "Sting - Englishman in New York"
-        },
-        {
-          "second": "33",
-          "__object__": "Justin Bieber - Never Say Never"
-        },
-        {
-          "second": "34",
-          "__object__": "Tor Miller - Cater and Cash"
-        },
-        {
-          "second": "35",
-          "__object__": "Zedd - Clarity"
-        },
-        {
-          "second": "36",
-          "__object__": "Ricky Martin - Livin' La Vida Loca"
-        },
-        {
-          "second": "37",
-          "__object__": "Dido - Thank You"
-        },
-        {
-          "second": "38",
-          "__object__": "Gwen Stefani - The Sweet Escape"
-        },
-        {
-          "second": "39",
-          "__object__": "Slash - Beautiful Dangerous"
-        },
-        {
-          "second": "40",
-          "__object__": "Paramore - Thats what you get"
-        },
-        {
-          "second": "41",
-          "__object__": "The Cardigans - My Favorite Game"
-        },
-        {
-          "second": "42",
-          "__object__": "Audioslave - Like a Stone"
-        },
-        {
-          "second": "43",
-          "__object__": "Alphaville - Big in Japan"
-        },
-        {
-          "second": "44",
-          "__object__": "Madonna - Hung Up"
-        },
-        {
-          "second": "45",
-          "__object__": "Fergie - Big girls don't cry"
-        },
-        {
-          "second": "46",
-          "__object__": "Clean Bandit - Rather Be"
-        },
-        {
-          "second": "47",
-          "__object__": "Gwen Stefani - Hollaback Girl"
-        },
-        {
-          "second": "48",
-          "__object__": "Raul Seixas - Eu Nasci há Dez Mil Anos Atrás"
-        },
-        {
-          "second": "49",
-          "__object__": "Oasis - Don't Look Back in Anger"
-        },
-        {
-          "second": "50",
-          "__object__": "Lily Allen - Not Fair"
-        },
-        {
-          "second": "51",
-          "__object__": "Toto - Africa"
-        },
-        {
-          "second": "52",
-          "__object__": "Avril Lavigne - Smile"
-        },
-        {
-          "second": "53",
-          "__object__": "Gwen Stefani - Rich Girl"
-        },
-        {
-          "second": "54",
-          "__object__": "MAGIC! - Rude"
-        },
-        {
-          "second": "55",
-          "__object__": "Ricky Martin - The best thing about me is you"
-        },
-        {
-          "second": "56",
-          "__object__": "Kaiser Chiefs - Ruby"
-        },
-        {
-          "second": "57",
-          "__object__": "Above and Beyond - Blue sky action"
-        },
-        {
-          "second": "58",
-          "__object__": "Black Eyed Peas - Just Can't Get Enough"
-        },
-        {
-          "second": "59",
-          "__object__": "Nelly - Dilemma"
-        },
-      ]
-    },
-    {
-      "hour": "04",
-      "minutes": ["00"],
-      "seconds": { "__object__": "Black Sabbath - 13 (Album)" }
-    },
-    {
-
-      "hour": "05",
-      "minutes": ["00"],
-      "seconds": { "__object__": "Nelly Furtado - Say it right" }
-    },
-    {
-      "hour": "06",
-      "minutes": ["00"],
-      "seconds": { "__object__": "Pink Floyd - The dark side of the moon (Album)" }
-    },
-    {
-      "hour": "07",
-      "minutes": ["00"\-"59"],
-      "seconds": [
-        {
-          "second": "00",
-          "__object__": "Black Eyed Peas - Pump It"
-        },
-        {
-          "second": "01",
-          "__object__": "Justin Bieber - Never Say Never"
-        },
-        {
-          "second": "02",
-          "__object__": "Harry Styles - Sign of the Times"
-        },
-        {
-          "second": "03",
-          "__object__": "Adele - Set fire to the rain"
-        },
-        {
-          "second": "04",
-          "__object__": "Rita Lee - Mania de você"
-        },
-        {
-          "second": "05",
-          "__object__": "ROSÉ - On The Ground"
-        },
-        {
-          "second": "06",
-          "__object__": "Hooverphonic - Anger Never Dies"
-        },
-        {
-          "second": "07",
-          "__object__": ""
-        },
-        {
-          "second": "08",
-          "__object__": ""
-        },
-        {
-          "second": "09",
-          "__object__": ""
-        },
-        {
-          "second": "10",
-          "__object__": ""
-        },
-        {
-          "second": "11",
-          "__object__": "Avril Lavigne - Smile"
-        },
-        {
-          "second": "12",
-          "__object__": ""
-        },
-        {
-          "second": "13",
-          "__object__": ""
-        },
-        {
-          "second": "14",
-          "__object__": ""
-        },
-        {
-          "second": "15",
-          "__object__": ""
-        },
-        {
-          "second": "16",
-          "__object__": ""
-        },
-        {
-          "second": "17",
-          "__object__": ""
-        },
-        {
-          "second": "18",
-          "__object__": "Timbaland - Give it to me (feat. Nelly Furtado & Justin Timberlake)"
-        },
-        {
-          "second": "19",
-          "__object__": ""
-        },
-        {
-          "second": "20",
-          "__object__": ""
-        },
-        {
-          "second": "21",
-          "__object__": ""
-        },
-        {
-          "second": "22",
-          "__object__": ""
-        },
-        {
-          "second": "23",
-          "__object__": ""
-        },
-        {
-          "second": "24",
-          "__object__": ""
-        },
-        {
-          "second": "25",
-          "__object__": ""
-        },
-        {
-          "second": "26",
-          "__object__": ""
-        },
-        {
-          "second": "27",
-          "__object__": ""
-        },
-        {
-          "second": "28",
-          "__object__": ""
-        },
-        {
-          "second": "29",
-          "__object__": ""
-        },
-        {
-          "second": "30",
-          "__object__": ""
-        },
-        {
-          "second": "31",
-          "__object__": ""
-        },
-        {
-          "second": "32",
-          "__object__": ""
-        },
-        {
-          "second": "33",
-          "__object__": ""
-        },
-        {
-          "second": "34",
-          "__object__": ""
-        },
-        {
-          "second": "35",
-          "__object__": ""
-        },
-        {
-          "second": "36",
-          "__object__": ""
-        },
-        {
-          "second": "37",
-          "__object__": ""
-        },
-        {
-          "second": "38",
-          "__object__": ""
-        },
-        {
-          "second": "39",
-          "__object__": ""
-        },
-        {
-          "second": "40",
-          "__object__": ""
-        },
-        {
-          "second": "41",
-          "__object__": ""
-        },
-        {
-          "second": "42",
-          "__object__": ""
-        },
-        {
-          "second": "43",
-          "__object__": ""
-        },
-        {
-          "second": "44",
-          "__object__": ""
-        },
-        {
-          "second": "45",
-          "__object__": ""
-        },
-        {
-          "second": "46",
-          "__object__": ""
-        },
-        {
-          "second": "47",
-          "__object__": ""
-        },
-        {
-          "second": "48",
-          "__object__": ""
-        },
-        {
-          "second": "49",
-          "__object__": ""
-        },
-        {
-          "second": "50",
-          "__object__": ""
-        },
-        {
-          "second": "51",
-          "__object__": ""
-        },
-        {
-          "second": "52",
-          "__object__": ""
-        },
-        {
-          "second": "53",
-          "__object__": ""
-        },
-        {
-          "second": "54",
-          "__object__": ""
-        },
-        {
-          "second": "55",
-          "__object__": ""
-        },
-        {
-          "second": "56",
-          "__object__": ""
-        },
-        {
-          "second": "57",
-          "__object__": ""
-        },
-        {
-          "second": "58",
-          "__object__": ""
-        },
-        {
-          "second": "59",
-          "__object__": ""
-        },
-      ]
-    },
-    {
-      "hour": "08",
-      "minutes": "00",
-      "seconds": [
-        {
-          "second": "00",
-          "__object__": "Sonny Fodera - Trainsurfing"
-        },
-        {
-          "second": "01",
-          "__object__": ""
-        },
-        {
-          "second": "02",
-          "__object__": ""
-        },
-        {
-          "second": "03",
-          "__object__": "Alok and Liu - Bolum Back"
-        },
-        {
-          "second": "04",
-          "__object__": ""
-        },
-        {
-          "second": "05",
-          "__object__": "Claude VonStroke - The Rain Break (Simple Jack, Tough Art, Black Soup Bootleg)"
-        },
-        {
-          "second": "06",
-          "__object__": ""
-        },
-        {
-          "second": "07",
-          "__object__": "Zhu - Faded (Vintage Culture & Zerb Remix)"
-        },
-        {
-          "second": "08",
-          "__object__": "Leo Justi - HVY BL NSS PRR (Simple Jack Remix)"
-        },
-        {
-          "second": "09",
-          "__object__": ""
-        },
-        {
-          "second": "10",
-          "__object__": "Alternative Kasual - Everyday and Night (Vintage Culture Remix)"
-        },
-        {
-          "second": "11",
-          "__object__": ""
-        },
-        {
-          "second": "12",
-          "__object__": "Betoko - Raining Again (Vintage Culture & Dashdot Remix)"
-        },
-        {
-          "second": "13",
-          "__object__": ""
-        },
-        {
-          "second": "14",
-          "__object__": "Bad Kingdom (Gabe & Alok Bootleg)"
-        },
-        {
-          "second": "15",
-          "__object__": ""
-        },
-        {
-          "second": "16",
-          "__object__": ""
-        },
-        {
-          "second": "17",
-          "__object__": ""
-        },
-        {
-          "second": "18",
-          "__object__": "Vintage Culture - Eyes"
-        },
-        {
-          "second": "19",
-          "__object__": ""
-        },
-        {
-          "second": "20",
-          "__object__": "Vintage Culture, Earstrip & Torha - Sure Thing (feat. Ashibah)"
-        },
-        {
-          "second": "21",
-          "__object__": ""
-        },
-        {
-          "second": "22",
-          "__object__": ""
-        },
-        {
-          "second": "23",
-          "__object__": "Vintage Culture - Voices (Feat. Ellie Ka)"
-        },
-        {
-          "second": "24",
-          "__object__": ""
-        },
-        {
-          "second": "25",
-          "__object__": "Vintage Culture - Deep Inside"
-        },
-        {
-          "second": "26",
-          "__object__": ""
-        },
-        {
-          "second": "27",
-          "__object__": "Cazuza - Bete Balanco (Vintage Culture Remix)"
-        },
-        {
-          "second": "28",
-          "__object__": "Vintage Culture - Hollywood"
-        },
-        {
-          "second": "29",
-          "__object__": ""
-        },
-        {
-          "second": "30",
-          "__object__": "Growling Machines - Rounders (Gabe, Alex Stein Remix)"
-        },
-        {
-          "second": "31",
-          "__object__": ""
-        },
-        {
-          "second": "32",
-          "__object__": ""
-        },
-        {
-          "second": "33",
-          "__object__": ""
-        },
-        {
-          "second": "34",
-          "__object__": "Gabe, Dashdot Feat. Cotry - Always On My Mind (Original Mix)"
-        },
-        {
-          "second": "35",
-          "__object__": ""
-        },
-        {
-          "second": "36",
-          "__object__": "D-Nox & Beckers - Cala Boca (Gabe Remix)"
-        },
-        {
-          "second": "37",
-          "__object__": ""
-        },
-        {
-          "second": "38",
-          "__object__": "Gabe - Tudo Vem"
-        },
-        {
-          "second": "39",
-          "__object__": ""
-        },
-        {
-          "second": "40",
-          "__object__": "Volkoder - Sensation"
-        },
-        {
-          "second": "41",
-          "__object__": ""
-        },
-        {
-          "second": "42",
-          "__object__": "Dashdot - Sinners and Fools"
-        },
-        {
-          "second": "43",
-          "__object__": ""
-        },
-        {
-          "second": "44",
-          "__object__": ""
-        },
-        {
-          "second": "45",
-          "__object__": "Saccao, Pao & Jazzyfunk - Come Back Home (Vintage Culture Remix)"
-        },
-        {
-          "second": "46",
-          "__object__": "Vintage Culture - Bidolibido"
-        },
-        {
-          "second": "47",
-          "__object__": ""
-        },
-        {
-          "second": "48",
-          "__object__": "Vintage Culture - That's Why"
-        },
-        {
-          "second": "49",
-          "__object__": ""
-        },
-        {
-          "second": "50",
-          "__object__": ""
-        },
-        {
-          "second": "51",
-          "__object__": ""
-        },
-        {
-          "second": "52",
-          "__object__": "Vintage Culture - You Can't Hide"
-        },
-        {
-          "second": "53",
-          "__object__": ""
-        },
-        {
-          "second": "54",
-          "__object__": ""
-        },
-        {
-          "second": "55",
-          "__object__": ""
-        },
-        {
-          "second": "56",
-          "__object__": "Vintage Culture & theDuo - Everyday"
-        },
-        {
-          "second": "57",
-          "__object__": ""
-        },
-        {
-          "second": "58",
-          "__object__": ""
-        },
-        {
-          "second": "59",
-          "__object__": "Gabe, Eddy M & MC Th - Naquele Pique"
-        },
-      ]
-    },
-    {
-      "hour": "08",
-      "minutes": "01",
-      "seconds": { "__object__": ["while - cielo", "while - \Übermacht"] }
-    },
-    {
-      "hour": "08",
-      "minutes": "02",
-      "seconds": [
-        {
-          "second": "00",
-          "__object__": "Cazuza - Exagerado"
-        },
-        {
-          "second": "01",
-          "__object__": "Cazuza - Ideologia"
-        },
-        {
-          "second": "02",
-          "__object__": "Adriana Calcanhoto - Mais Feliz"
-        },
-        {
-          "second": "03",
-          "__object__": "Adiana Calcanhoto - Esquadros"
-        },
-        {
-          "second": "04",
-          "__object__": "Rita Lee - Lança Perfume"
-        },
-        {
-          "second": "05",
-          "__object__": "Legião Urbana - Indios"
-        },
-        {
-          "second": "06",
-          "__object__": "Legião Urabana - Será"
-        },
-        {
-          "second": "07",
-          "__object__": "Raul Seixas - Por quem os sinos dobam"
-        },
-        {
-          "second": "08",
-          "__object__": "Elis Regina E Tom Jobim - Águas de Março"
-        },
-      ]
-    },
-    {
-      "hour": "08",
-      "minutes": "03",
-      "seconds": [
-        {
-          "second": "00",
-          "__object__": "Charles Dickens - Great Expectations"
-        },
-        {
-          "second": "01",
-          "__object__": "Dante - The Divine Comedy"
-        },
-        {
-          "second": "02",
-          "__object__": "Plato - The Republic"
-        },
-        {
-          "second": "03",
-          "__object__": "Kant - Critique of Pure Reason"
-        },
-        {
-          "second": "04",
-          "__object__": "Kant - Critique of Pratical Reason"
-        },
-        {
-          "second": "05",
-          "__object__": "Aristotle - Politics"
-        },
-        {
-          "second": "06",
-          "__object__": "Aristotle - Metaphysics"
-        },
-        {
-          "second": "07",
-          "__object__": "Aristotle - Rhetoric"
-        },
-        {
-          "second": "08",
-          "__object__": "Antoine de Saint-Exupéry - Le Petit Prince"
-        },
-      ]
-    },
-    {
-      "hour": "09",
-      "minutes": "00",
-      "seconds": { "__object__": "Stephan Bodzin - Powers of ten (Album)" }
-    },
-    {
-      "hour": "10",
-      "minutes": "00",
-      "seconds": { "__object__": "Gabe - Collection Vol. 1 [Zero Eleven Music]" }
-    },
-    {
-      "hour": "11",
-      "minutes": "00",
-      "seconds": { "__object__": "上海 - Shanghai" }
-    },
-    {
-      "hour": "11",
-      "minutes": "01",
-      "seconds": [
-        { 
-          "second": "00",
-          "__object__": "Myley Cyrus - \Angels like you"
-        },
-        {
-          "seconds": "01",
-          "__object__": "Sabrina Carpenter - emails i can't send"
-        },
-        {
-          "seconds": "02",
-          "__object__": "The Cardigans - My Favorite Game"
-        },
-        {
-          "seconds": "03",
-          "__object__": "Olivia Rodrigo - Drivers license"
-        },
-        {
-          "seconds": "04",
-          "__object__": "JoJo - Too little too late"
-        },
-        {
-          "seconds": "05",
-          "__object__": "Justin Bieber - Boyfriend"
-        },
-        {
-          "seconds": "06",
-          "__object__": "No Doubt - Don't Speak"
-        },
-        {
-          "seconds": "07",
-          "__object__": "Keira Knightley - Lost Stars"
-        },
-        {
-          "seconds": "08",
-          "__object__": "Lifehouse - Central Park"
-        },
-        {
-          "seconds": "09",
-          "__object__": "Fergie - Big Girls Don't Cry"
-        },
-        {
-          "seconds": "10",
-          "__object__": "Carly Rae Jepsen - Call Me Maybe"
-        },
-        {
-          "seconds": "11",
-          "__object__": "Fun - We are young"
-        },
-        {
-          "seconds": "12",
-          "__object__": "Ricky Martin - The Best Thing About Me Is You"
-        },
-        {
-          "seconds": "13",
-          "__object__": "Racionais - Diario de um Detento"
-        },
-        {
-          "seconds": "14",
-          "__object__": "Slash - Beautiful Dangerous"
-        },
-        {
-          "seconds": "15",
-          "__object__": "Hot Natured feat. Anabel Englund - Reverse Skydiving"
-        },
-        {
-          "seconds": "16",
-          "__object__": "Black Eyed Peas - Don't Lie"
-        },
-        {
-          "seconds": "17",
-          "__object__": "Fergie - Clumsy"
-        },
-        {
-          "seconds": "18",
-          "__object__": "Fergie - London Bridge (Visualizer)"
-        },
-        {
-          "seconds": "19",
-          "__object__": "Jessie J - Laserlight ft. David Guetta"
-        },
-        {
-          "seconds": "20",
-          "__object__": "Madsen - Lass die Musik an"
-        },
-        {
-          "seconds": "21",
-          "__object__": "Raça Negra - Cheio de desejo"
-        },
-        {
-          "seconds": "22",
-          "__object__": "RBD - Sálvame"
-        },
-        {
-          "seconds": "23",
-          "__object__": "Black Eyed Peas - The Time"
-        },
-        {
-          "seconds": "24",
-          "__object__": "Paramore - Misery Business"
-        },
-        {
-          "seconds": "25",
-          "__object__": "Zedd - Clarity feat. Foxes"
-        },
-        {
-          "seconds": "26",
-          "__object__": "Guns N' Roses - Paradise City"
-        },
-        {
-          "seconds": "27",
-          "__object__": "Sandy & Junior - As quatro estações"
-        },
-        {
-          "seconds": "28",
-          "__object__": "Gabriella Cilmi - Sweet About Me"
-        },
-        {
-          "seconds": "29",
-          "__object__": "Calvin Harris ft. Dua Lipa - One Kiss"
-        },
-        {
-          "seconds": "30",
-          "__object__": "Calvin Harris ft. Dua Lipa - One Kiss"
-        },
-      ]
-    },
-    {
-      "hour": "12",
-      "minutes": "00",
-      "seconds": [
-        {
-          "second": "00",
-          "__object__": "Astana"
-        },
-        {
-          "second": "01",
-          "__object__": "Karaganda"
-        },
-        {
-          "second": "02",
-          "__object__": "Kievka"
-        },
-        {
-          "second": "03",
-          "__object__": "Osakarovka"
-        },
-        {
-          "second": "04",
-          "__object__": "Molodezhnyy"
-        },
-        {
-          "second": "05",
-          "__object__": "Shiderty"
-        },
-        {
-          "second": "06",
-          "__object__": "Bayet"
-        },
-        {
-          "second": "07",
-          "__object__": "Ekibastuz"
-        },
-        {
-          "second": "08",
-          "__object__": "Karagandyozek"
-        },
-        {
-          "second": "09",
-          "__object__": "Sarykiyak"
-        },
-        {
-          "second": "10",
-          "__object__": "Karashoky"
-        },
-        {
-          "second": "11",
-          "__object__": "Maykain"
-        },
-        {
-          "second": "12",
-          "__object__": "Shoptykol"
-        },
-        {
-          "second": "13",
-          "__object__": "Karasor"
-        },
-        {
-          "second": "14",
-          "__object__": "Bayanaul"
-        },
-        {
-          "second": "15",
-          "__object__": "Kyzylasker"
-        },
-        {
-          "second": "16",
-          "__object__": "Tendyk"
-        },
-        {
-          "second": "17",
-          "__object__": "Karaaschi"
-        },
-        {
-          "second": "18",
-          "__object__": "Tortkol"
-        },
-        {
-          "second": "19",
-          "__object__": "Umutker"
-        },
-        {
-          "second": "20",
-          "__object__": "Bel'agash"
-        },
-        {
-          "second": "21",
-          "__object__": "Zhanatlek"
-        },
-        {
-          "second": "22",
-          "__object__": "Ozernoe"
-        },
-        {
-          "second": "23",
-          "__object__": "Semizbuga"
-        },
-        {
-          "second": "24",
-          "__object__": "Zhayma"
-        },
-        {
-          "second": "25",
-          "__object__": "Korneevka"
-        },
-        {
-          "second": "26",
-          "__object__": "Kulunda"
-        },
-        {
-          "second": "27",
-          "__object__": "Pavlodar"
-        },
-        {
-          "second": "28",
-          "__object__": "Chernoyarka"
-        },
-        {
-          "second": "29",
-          "__object__": "Michurina"
-        },
-        {
-          "second": "30",
-          "__object__": "Pavlodarskiy"
-        },
-        {
-          "second": "31",
-          "__object__": "Moyyldy"
-        },
-        {
-          "second": "32",
-          "__object__": "Koryakovka"
-        },
-        {
-          "second": "33",
-          "__object__": "Efremovka"
-        },
-        {
-          "second": "34",
-          "__object__": "Rozovka"
-        },
-        {
-          "second": "35",
-          "__object__": "Rozhdestvenka"
-        },
-        {
-          "second": "36",
-          "__object__": "Tavolzhan"
-        },
-        {
-          "second": "37",
-          "__object__": "Uspenka"
-        },
-        {
-          "second": "38",
-          "__object__": "Ol'khovka"
-        },
-        {
-          "second": "39",
-          "__object__": "Dostyk"
-        },
-        {
-          "second": "40",
-          "__object__": "Ol'gino"
-        },
-        {
-          "second": "41",
-          "__object__": "Borisovka"
-        },
-        {
-          "second": "42",
-          "__object__": "Karashilik"
-        },
-        {
-          "second": "43",
-          "__object__": "Luganskoye"
-        },
-        {
-          "second": "44",
-          "__object__": "Bogdanovka"
-        },
-        {
-          "second": "45",
-          "__object__": "Dukhovnitskoye"
-        },
-        {
-          "second": "46",
-          "__object__": "Grigor'evka"
-        },
-        {
-          "second": "47",
-          "__object__": "Naberezhnoye"
-        },
-        {
-          "second": "48",
-          "__object__": "Chernoretskoe"
-        },
-        {
-          "second": "49",
-          "__object__": "Presnoe"
-        },
-        {
-          "second": "50",
-          "__object__": "Kyzyltan"
-        },
-        {
-          "second": "51",
-          "__object__": "Baykonys"
-        },
-        {
-          "second": "52",
-          "__object__": "Peschanoe"
-        },
-        {
-          "second": "53",
-          "__object__": "Karasuk"
-        },
-        {
-          "second": "54",
-          "__object__": "Kachīry"
-        },
-        {
-          "second": "55",
-          "__object__": "Beregovoe"
-        },
-        {
-          "second": "56",
-          "__object__": "Zhaskayrat"
-        },
-        {
-          "second": "57",
-          "__object__": "Bobrovo"
-        },
-        {
-          "second": "58",
-          "__object__": "Zhanabet"
-        },
-        {
-          "second": "59",
-          "__object__": "Mohisehevka"
-        },
-      ]
-    },
-    {
-      "hour": "12",
-      "minutes": "01",
-      "seconds": [
-        {
-          "second": "00",
-          "__object__": "Jan-Bulak"
-        },
-        {
-          "second": "01",
-          "__object__": "Naryn"
-        },
-        {
-          "second": "02",
-          "__object__": "Tash-Bashat"
-        },
-        {
-          "second": "03",
-          "__object__": "Salkyn-Tor"
-        },
-        {
-          "second": "04",
-          "__object__": "Irii Suu"
-        },
-        {
-          "second": "05",
-          "__object__": "Orto-Saz"
-        },
-        {
-          "second": "06",
-          "__object__": "Emgekchil"
-        },
-        {
-          "second": "07",
-          "__object__": "Jerge Tal"
-        },
-        {
-          "second": "08",
-          "__object__": "Kyzyl-Jyldyz"
-        },
-        {
-          "second": "09",
-          "__object__": "Kuibysheva"
-        },
-        {
-          "second": "10",
-          "__object__": "Min-Bulak"
-        },
-        {
-          "second": "11",
-          "__object__": "Dzhuan-Bulak"
-        },
-        {
-          "second": "12",
-          "__object__": "Tashbulak"
-        },
-        {
-          "second": "13",
-          "__object__": "Khutor Ak-Talaa"
-        },
-        {
-          "second": "14",
-          "__object__": "Ak-Talaa"
-        },
-        {
-          "second": "15",
-          "__object__": "Kulanak"
-        },
-        {
-          "second": "16",
-          "__object__": "Tegerek-Kyrchin"
-        },
-        {
-          "second": "17",
-          "__object__": "Laylysu"
-        },
-        {
-          "second": "18",
-          "__object__": "Uzgorysh"
-        },
-        {
-          "second": "19",
-          "__object__": "Segizinchi Mart"
-        },
-        {
-          "second": "20",
-          "__object__": "Uzgorysh"
-        },
-        {
-          "second": "21",
-          "__object__": "Uchkun"
-        },
-        {
-          "second": "22",
-          "__object__": "Dzhilanaryk"
-        },
-        {
-          "second": "23",
-          "__object__": "Ak-Kuduk"
-        },
-        {
-          "second": "24",
-          "__object__": "Dzhilanaryk"
-        },
-        {
-          "second": "25",
-          "__object__": "Ak-Suu"
-        },
-        {
-          "second": "26",
-          "__object__": "Kyzyl-Bayrak"
-        },
-        {
-          "second": "27",
-          "__object__": "Kara-Oi"
-        },
-        {
-          "second": "28",
-          "__object__": "Ak-Tal"
-        },
-        {
-          "second": "29",
-          "__object__": "Dzhangytelek"
-        },
-        {
-          "second": "30",
-          "__object__": "Sarybulak"
-        },
-        {
-          "second": "31",
-          "__object__": "Jangy-Talap"
-        },
-        {
-          "second": "32",
-          "__object__": "Ekachat"
-        },
-        {
-          "second": "33",
-          "__object__": "Karakeche"
-        },
-        {
-          "second": "34",
-          "__object__": "Dzholkara"
-        },
-        {
-          "second": "35",
-          "__object__": "Bash-Kuugandy"
-        },
-        {
-          "second": "36",
-          "__object__": "Dzhangyaryk"
-        },
-        {
-          "second": "37",
-          "__object__": "Kok Dzhar"
-        },
-        {
-          "second": "38",
-          "__object__": "Kochkor"
-        },
-        {
-          "second": "39",
-          "__object__": "Semiz Bel"
-        },
-        {
-          "second": "40",
-          "__object__": "Chaek"
-        },
-        {
-          "second": "41",
-          "__object__": "Balykchy"
-        },
-        {
-          "second": "42",
-          "__object__": "Ottuk"
-        },
-        {
-          "second": "43",
-          "__object__": "Kok Moynok Eki"
-        },
-        {
-          "second": "44",
-          "__object__": "Cholpon Ata"
-        },
-        {
-          "second": "45",
-          "__object__": "Chok Tal"
-        },
-        {
-          "second": "46",
-          "__object__": "Toru Aygyr"
-        },
-        {
-          "second": "47",
-          "__object__": "Kosh Kol"
-        },
-        {
-          "second": "48",
-          "__object__": "Tamchy"
-        },
-        {
-          "second": "49",
-          "__object__": "Koshkol'"
-        },
-        {
-          "second": "50",
-          "__object__": "Tegirmenti"
-        },
-        {
-          "second": "51",
-          "__object__": "Shabdan"
-        },
-        {
-          "second": "52",
-          "__object__": "Tort-Kul'"
-        },
-        {
-          "second": "53",
-          "__object__": "Krasnyy Most"
-        },
-        {
-          "second": "54",
-          "__object__": "Kemin"
-        },
-        {
-          "second": "55",
-          "__object__": "Jany-Alysh"
-        },
-        {
-          "second": "56",
-          "__object__": "Chym-Korgon"
-        },
-        {
-          "second": "57",
-          "__object__": "Orlovka"
-        },
-        {
-          "second": "58",
-          "__object__": "Podgornoye"
-        },
-        {
-          "second": "59",
-          "__object__": "Saylyk"
-        },
-      ]
-    },
-    {
-      "hour": "12",
-      "minutes": "02",
-      "seconds": [
-        {
-          "second": "00",
-          "__object__": "Kazan"
-        },
-        {
-          "second": "01",
-          "__object__": "Moscow"
-        },
-        {
-          "second": "02",
-          "__object__": "Syktyvkar"
-        },
-        {
-          "second": "03",
-          "__object__": "Yaroslavl"
-        },
-        {
-          "second": "04",
-          "__object__": "Koryazhma"
-        },
-        {
-          "second": "05",
-          "__object__": "Vologda"
-        },
-        {
-          "second": "06",
-          "__object__": "Ulyanovsk"
-        },
-        {
-          "second": "07",
-          "__object__": "St Petersburg"
-        },
-        {
-          "second": "08",
-          "__object__": "Petrozavodsk"
-        },
-        {
-          "second": "09",
-          "__object__": "Saratov"
-        },
-        {
-          "second": "10",
-          "__object__": "Krasnodar"
-        },
-        {
-          "second": "11",
-          "__object__": "Makhachkala"
-        },
-        {
-          "second": "12",
-          "__object__": "Nalchik"
-        },
-        {
-          "second": "13",
-          "__object__": "Astrakhan"
-        },
-        {
-          "second": "14",
-          "__object__": "Volgograd"
-        },
-        {
-          "second": "15",
-          "__object__": "Volgodonsk"
-        },
-        {
-          "second": "16",
-          "__object__": "Elista"
-        },
-        {
-          "second": "17",
-          "__object__": "Stavropol"
-        },
-        {
-          "second": "18",
-          "__object__": "Derbent"
-        },
-        {
-          "second": "19",
-          "__object__": "Grozny"
-        },
-        {
-          "second": "20",
-          "__object__": "Komsomol'skii"
-        },
-        {
-          "second": "21",
-          "__object__": "Enotaevka"
-        },
-        {
-          "second": "22",
-          "__object__": "Astrakhan"
-        },
-        {
-          "second": "23",
-          "__object__": "Kochubei"
-        },
-        {
-          "second": "24",
-          "__object__": "Russkii Khutor"
-        },
-        {
-          "second": "25",
-          "__object__": "Akhtubinsk"
-        },
-        {
-          "second": "26",
-          "__object__": "Bakhanay"
-        },
-        {
-          "second": "27",
-          "__object__": "Narimanov"
-        },
-        {
-          "second": "28",
-          "__object__": "Voronezh"
-        },
-        {
-          "second": "29",
-          "__object__": "Kursk"
-        },
-        {
-          "second": "30",
-          "__object__": "Rylsk"
-        },
-        {
-          "second": "31",
-          "__object__": "Lgov"
-        },
-        {
-          "second": "32",
-          "__object__": "Shustovo"
-        },
-        {
-          "second": "33",
-          "__object__": "Gorshechnoye"
-        },
-        {
-          "second": "34",
-          "__object__": "Novy Oskol"
-        },
-        {
-          "second": "35",
-          "__object__": "Rep'evka"
-        },
-        {
-          "second": "36",
-          "__object__": "Tyumen"
-        },
-        {
-          "second": "37",
-          "__object__": "Omsk"
-        },
-        {
-          "second": "38",
-          "__object__": "Novosibirsk"
-        },
-        {
-          "second": "39",
-          "__object__": "Krasnoyarsk"
-        },
-        {
-          "second": "40",
-          "__object__": "Bratsk"
-        },
-        {
-          "second": "41",
-          "__object__": "Yakutsk"
-        },
-        {
-          "second": "42",
-          "__object__": "Saskylakh"
-        },
-        {
-          "second": "43",
-          "__object__": "Srednekolymsk"
-        },
-        {
-          "second": "44",
-          "__object__": "Omsukchan"
-        },
-        {
-          "second": "45",
-          "__object__": "Khabarovsk"
-        },
-        {
-          "second": "46",
-          "__object__": "Nakhodka"
-        },
-        {
-          "second": "47",
-          "__object__": "Solov'evsk"
-        },
-        {
-          "second": "48",
-          "__object__": "Chita"
-        },
-        {
-          "second": "49",
-          "__object__": "Ulan-Ude"
-        },
-        {
-          "second": "50",
-          "__object__": "Khilok"
-        },
-        {
-          "second": "51",
-          "__object__": "Linevo Ozero"
-        },
-        {
-          "second": "52",
-          "__object__": "Khorinsk"
-        },
-        {
-          "second": "53",
-          "__object__": "Ust-Barguzin"
-        },
-        {
-          "second": "54",
-          "__object__": "Khanty-Mansiysk"
-        },
-        {
-          "second": "55",
-          "__object__": "Sennoi"
-        },
-        {
-          "second": "56",
-          "__object__": "Yablonovsky"
-        },
-        {
-          "second": "57",
-          "__object__": "Maykop"
-        },
-        {
-          "second": "58",
-          "__object__": "Armavir"
-        },
-        {
-          "second": "59",
-          "__object__": "Rostov-on-Don"
-        },
-      ]
-    },
-    {
-      "hour": "12",
-      "minutes": "03",
-      "seconds": [
-        {
-          "second": "00",
-          "__object__": "Brasilia"
-        },
-        {
-          "second": "01",
-          "__object__": "Manaus"
-        },
-        {
-          "second": "02",
-          "__object__": "Natal"
-        },
-        {
-          "second": "03",
-          "__object__": "São Luis"
-        },
-        {
-          "second": "04",
-          "__object__": "Belém"
-        },
-        {
-          "second": "05",
-          "__object__": "Recife"
-        },
-        {
-          "second": "06",
-          "__object__": "Salvador"
-        },
-        {
-          "second": "07",
-          "__object__": "João Pessoa"
-        },
-        {
-          "second": "08",
-          "__object__": "Palmas"
-        },
-        {
-          "second": "09",
-          "__object__": "Rio Branco"
-        },
-        {
-          "second": "10",
-          "__object__": "Porto Alegre"
-        },
-        {
-          "second": "11",
-          "__object__": "Campo Grande"
-        },
-        {
-          "second": "12",
-          "__object__": "Ribeirão Preto"
-        },
-        {
-          "second": "13",
-          "__object__": "Uberlândia"
-        },
-        {
-          "second": "14",
-          "__object__": "Juiz de fora"
-        },
-        {
-          "second": "15",
-          "__object__": "Guarapari"
-        },
-        {
-          "second": "16",
-          "__object__": "Cabo Frio"
-        },
-        {
-          "second": "17",
-          "__object__": "FLorianópolis"
-        },
-        {
-          "second": "18",
-          "__object__": "Ponta Grossa"
-        },
-        {
-          "second": "19",
-          "__object__": "Caldas Novas"
-        },
-        {
-          "second": "20",
-          "__object__": "Montes Claros"
-        },
-        {
-          "second": "21",
-          "__object__": "Porto Velho"
-        },
-        {
-          "second": "22",
-          "__object__": "Macapa"
-        },
-        {
-          "second": "23",
-          "__object__": "São Paulo"
-        },
-        {
-          "second": "24",
-          "__object__": "Cuiabá"
-        },
-        {
-          "second": "25",
-          "__object__": "Itaberaí"
-        },
-        {
-          "second": "26",
-          "__object__": "Volta Redonda"
-        },
-        {
-          "second": "27",
-          "__object__": "São José do Rio Preto"
-        },
-        {
-          "second": "28",
-          "__object__": "Belo Horizonte"
-        },
-        {
-          "second": "29",
-          "__object__": "Ouro Preto"
-        },
-        {
-          "second": "30",
-          "__object__": "Goiânia"
-        },
-        {
-          "second": "31",
-          "__object__": "Itumbiara"
-        },
-        {
-          "second": "32",
-          "__object__": "Recife"
-        },
-        {
-          "second": "33",
-          "__object__": "Feira de Santana"
-        },
-        {
-          "second": "34",
-          "__object__": "Juazeiro do Norte"
-        },
-        {
-          "second": "35",
-          "__object__": "Teresina"
-        },
-        {
-          "second": "36",
-          "__object__": "Marabá"
-        },
-        {
-          "second": "37",
-          "__object__": "Rio Branco"
-        },
-        {
-          "second": "38",
-          "__object__": "Belém"
-        },
-        {
-          "second": "39",
-          "__object__": "Aracaju"
-        },
-        {
-          "second": "40",
-          "__object__": "Porto Seguro"
-        },
-        {
-          "second": "41",
-          "__object__": "Balsas"
-        },
-        {
-          "second": "42",
-          "__object__": "Parbaiba"
-        },
-        {
-          "second": "43",
-          "__object__": "PIcos"
-        },
-        {
-          "second": "44",
-          "__object__": "Vitória da Conquista"
-        },
-        {
-          "second": "45",
-          "__object__": "Jacobina"
-        },
-        {
-          "second": "46",
-          "__object__": "São Raimundo Nonato"
-        },
-        {
-          "second": "47",
-          "__object__": "Paraíso do Tocantins"
-        },
-        {
-          "second": "48",
-          "__object__": "Santarém"
-        },
-        {
-          "second": "49",
-          "__object__": "Barreirinha"
-        },
-        {
-          "second": "50",
-          "__object__": "Bragança"
-        },
-        {
-          "second": "51",
-          "__object__": "Terra Santa"
-        },
-        {
-          "second": "52",
-          "__object__": "Borba"
-        },
-        {
-          "second": "53",
-          "__object__": "Alter do Chão"
-        },
-        {
-          "second": "54",
-          "__object__": "Redenção"
-        },
-        {
-          "second": "55",
-          "__object__": "Balsas"
-        },
-        {
-          "second": "56",
-          "__object__": "Confresa"
-        },
-        {
-          "second": "57",
-          "__object__": "Alta Floresta"
-        },
-        {
-          "second": "58",
-          "__object__": "Ariquemes"
-        },
-        {
-          "second": "59",
-          "__object__": "Nova Mutum"
-        },
-      ]
-    },
-    {
-      "hour": ["13", "14", "15", "16", "17", "18"],
-      "minutes": "00",
-      "seconds": [
-        {
-          "second": "00",
-          "__object__": "Brasilia"
-        },
-        {
-          "second": "01",
-          "__object__": "Manaus"
-        },
-        {
-          "second": "02",
-          "__object__": "Natal"
-        },
-        {
-          "second": "03",
-          "__object__": "São Luis"
-        },
-        {
-          "second": "04",
-          "__object__": "Belém"
-        },
-        {
-          "second": "05",
-          "__object__": "Recife"
-        },
-        {
-          "second": "06",
-          "__object__": "Salvador"
-        },
-        {
-          "second": "07",
-          "__object__": "João Pessoa"
-        },
-        {
-          "second": "08",
-          "__object__": "Palmas"
-        },
-        {
-          "second": "09",
-          "__object__": "Rio Branco"
-        },
-        {
-          "second": "10",
-          "__object__": "Porto Alegre"
-        },
-        {
-          "second": "11",
-          "__object__": "Campo Grande"
-        },
-        {
-          "second": "12",
-          "__object__": "Ribeirão Preto"
-        },
-        {
-          "second": "13",
-          "__object__": "Uberlândia"
-        },
-        {
-          "second": "14",
-          "__object__": "Juiz de fora"
-        },
-        {
-          "second": "15",
-          "__object__": "Guarapari"
-        },
-        {
-          "second": "16",
-          "__object__": "Cabo Frio"
-        },
-        {
-          "second": "17",
-          "__object__": "Florianópolis"
-        },
-        {
-          "second": "18",
-          "__object__": "Ponta Grossa"
-        },
-        {
-          "second": "19",
-          "__object__": "Caldas Novas"
-        },
-        {
-          "second": "20",
-          "__object__": "Montes Claros"
-        },
-        {
-          "second": "21",
-          "__object__": "Porto Velho"
-        },
-        {
-          "second": "22",
-          "__object__": "Macapa"
-        },
-        {
-          "second": "23",
-          "__object__": "São Paulo"
-        },
-        {
-          "second": "24",
-          "__object__": "Cuiabá"
-        },
-        {
-          "second": "25",
-          "__object__": "Itaberaí"
-        },
-        {
-          "second": "26",
-          "__object__": "Volta Redonda"
-        },
-        {
-          "second": "27",
-          "__object__": "São José do Rio Preto"
-        },
-        {
-          "second": "28",
-          "__object__": "Belo Horizonte"
-        },
-        {
-          "second": "29",
-          "__object__": "Ouro Preto"
-        },
-        {
-          "second": "30",
-          "__object__": "Goiânia"
-        },
-        {
-          "second": "31",
-          "__object__": "Itumbiara"
-        },
-        {
-          "second": "32",
-          "__object__": "Recife"
-        },
-        {
-          "second": "33",
-          "__object__": "Feira de Santana"
-        },
-        {
-          "second": "34",
-          "__object__": "Juazeiro do Norte"
-        },
-        {
-          "second": "35",
-          "__object__": "Teresina"
-        },
-        {
-          "second": "36",
-          "__object__": "Marabá"
-        },
-        {
-          "second": "37",
-          "__object__": "Rio Branco"
-        },
-        {
-          "second": "38",
-          "__object__": "Belém"
-        },
-        {
-          "second": "39",
-          "__object__": "Aracaju"
-        },
-        {
-          "second": "40",
-          "__object__": "Porto Seguro"
-        },
-        {
-          "second": "41",
-          "__object__": "Balsas"
-        },
-        {
-          "second": "42",
-          "__object__": "Parbaiba"
-        },
-        {
-          "second": "43",
-          "__object__": "PIcos"
-        },
-        {
-          "second": "44",
-          "__object__": "Vitória da Conquista"
-        },
-        {
-          "second": "45",
-          "__object__": "Jacobina"
-        },
-        {
-          "second": "46",
-          "__object__": "São Raimundo Nonato"
-        },
-        {
-          "second": "47",
-          "__object__": "Paraíso do Tocantins"
-        },
-        {
-          "second": "48",
-          "__object__": "Santarém"
-        },
-        {
-          "second": "49",
-          "__object__": "Barreirinha"
-        },
-        {
-          "second": "50",
-          "__object__": "Bragança"
-        },
-        {
-          "second": "51",
-          "__object__": "Terra Santa"
-        },
-        {
-          "second": "52",
-          "__object__": "Borba"
-        },
-        {
-          "second": "53",
-          "__object__": "Alter do Chão"
-        },
-        {
-          "second": "54",
-          "__object__": "Redenção"
-        },
-        {
-          "second": "55",
-          "__object__": "Balsas"
-        },
-        {
-          "second": "56",
-          "__object__": "Confresa"
-        },
-        {
-          "second": "57",
-          "__object__": "Alta Floresta"
-        },
-        {
-          "second": "58",
-          "__object__": "Ariquemes"
-        },
-        {
-          "second": "59",
-          "__object__": "Nova Mutum"
-        },
-      ]
-    },
-    {
-      "hour": "19",
-      "minutes": "00",
-      "seconds": { "__object__": "https://soundcloud.com/trommelmusic" }
-    },
-    {
-      "hour": "20",
-      "minutes": "00",
-      "seconds": { "__object__": "https://soundcloud.com/ricardo-villalobos-official" }
-    },
-    {
-      "hour": "21",
-      "minutes": "00",
-      "seconds": { "__object__": "https://soundcloud.com/meoko" }
-    },
-    {
-      "hour": "22",
-      "minutes": "00",
-      "seconds": { "__object__": "https://soundcloud.com/playedby" }
-    },
-    {
-      "hour": "23",
-      "minutes": "59",
-      "seconds": { "__object__": ["Legião Urbana - Mais do Mesmo (Album)"] }
     },
   ]
 }

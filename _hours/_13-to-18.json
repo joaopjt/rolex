@@ -1,0 +1,250 @@
+{
+  "hour": ["13", "14", "15", "16", "17", "18"]
+  "minutes": [
+    {
+      "minutes": "00",
+      "seconds": [
+        {
+          "second": "00",
+          "__object__": "Brasilia"
+        },
+        {
+          "second": "01",
+          "__object__": "Manaus"
+        },
+        {
+          "second": "02",
+          "__object__": "Natal"
+        },
+        {
+          "second": "03",
+          "__object__": "São Luis"
+        },
+        {
+          "second": "04",
+          "__object__": "Belém"
+        },
+        {
+          "second": "05",
+          "__object__": "Recife"
+        },
+        {
+          "second": "06",
+          "__object__": "Salvador"
+        },
+        {
+          "second": "07",
+          "__object__": "João Pessoa"
+        },
+        {
+          "second": "08",
+          "__object__": "Palmas"
+        },
+        {
+          "second": "09",
+          "__object__": "Rio Branco"
+        },
+        {
+          "second": "10",
+          "__object__": "Porto Alegre"
+        },
+        {
+          "second": "11",
+          "__object__": "Campo Grande"
+        },
+        {
+          "second": "12",
+          "__object__": "Ribeirão Preto"
+        },
+        {
+          "second": "13",
+          "__object__": "Uberlândia"
+        },
+        {
+          "second": "14",
+          "__object__": "Juiz de fora"
+        },
+        {
+          "second": "15",
+          "__object__": "Guarapari"
+        },
+        {
+          "second": "16",
+          "__object__": "Cabo Frio"
+        },
+        {
+          "second": "17",
+          "__object__": "Florianópolis"
+        },
+        {
+          "second": "18",
+          "__object__": "Ponta Grossa"
+        },
+        {
+          "second": "19",
+          "__object__": "Caldas Novas"
+        },
+        {
+          "second": "20",
+          "__object__": "Montes Claros"
+        },
+        {
+          "second": "21",
+          "__object__": "Porto Velho"
+        },
+        {
+          "second": "22",
+          "__object__": "Macapa"
+        },
+        {
+          "second": "23",
+          "__object__": "São Paulo"
+        },
+        {
+          "second": "24",
+          "__object__": "Cuiabá"
+        },
+        {
+          "second": "25",
+          "__object__": "Itaberaí"
+        },
+        {
+          "second": "26",
+          "__object__": "Volta Redonda"
+        },
+        {
+          "second": "27",
+          "__object__": "São José do Rio Preto"
+        },
+        {
+          "second": "28",
+          "__object__": "Belo Horizonte"
+        },
+        {
+          "second": "29",
+          "__object__": "Ouro Preto"
+        },
+        {
+          "second": "30",
+          "__object__": "Goiânia"
+        },
+        {
+          "second": "31",
+          "__object__": "Itumbiara"
+        },
+        {
+          "second": "32",
+          "__object__": "Recife"
+        },
+        {
+          "second": "33",
+          "__object__": "Feira de Santana"
+        },
+        {
+          "second": "34",
+          "__object__": "Juazeiro do Norte"
+        },
+        {
+          "second": "35",
+          "__object__": "Teresina"
+        },
+        {
+          "second": "36",
+          "__object__": "Marabá"
+        },
+        {
+          "second": "37",
+          "__object__": "Rio Branco"
+        },
+        {
+          "second": "38",
+          "__object__": "Belém"
+        },
+        {
+          "second": "39",
+          "__object__": "Aracaju"
+        },
+        {
+          "second": "40",
+          "__object__": "Porto Seguro"
+        },
+        {
+          "second": "41",
+          "__object__": "Balsas"
+        },
+        {
+          "second": "42",
+          "__object__": "Parbaiba"
+        },
+        {
+          "second": "43",
+          "__object__": "PIcos"
+        },
+        {
+          "second": "44",
+          "__object__": "Vitória da Conquista"
+        },
+        {
+          "second": "45",
+          "__object__": "Jacobina"
+        },
+        {
+          "second": "46",
+          "__object__": "São Raimundo Nonato"
+        },
+        {
+          "second": "47",
+          "__object__": "Paraíso do Tocantins"
+        },
+        {
+          "second": "48",
+          "__object__": "Santarém"
+        },
+        {
+          "second": "49",
+          "__object__": "Barreirinha"
+        },
+        {
+          "second": "50",
+          "__object__": "Bragança"
+        },
+        {
+          "second": "51",
+          "__object__": "Terra Santa"
+        },
+        {
+          "second": "52",
+          "__object__": "Borba"
+        },
+        {
+          "second": "53",
+          "__object__": "Alter do Chão"
+        },
+        {
+          "second": "54",
+          "__object__": "Redenção"
+        },
+        {
+          "second": "55",
+          "__object__": "Balsas"
+        },
+        {
+          "second": "56",
+          "__object__": "Confresa"
+        },
+        {
+          "second": "57",
+          "__object__": "Alta Floresta"
+        },
+        {
+          "second": "58",
+          "__object__": "Ariquemes"
+        },
+        {
+          "second": "59",
+          "__object__": "Nova Mutum"
+        },
+      ]
+    }
+  ]
+}
