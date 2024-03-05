@@ -245,6 +245,496 @@
           "__object__": "Nova Mutum"
         },
       ]
+    },
+    {
+      "minutes": "01",
+      "seconds": [
+        {
+          "second": "00",
+          "__object__": "Beijing"
+        },
+        {
+          "second": "01",
+          "__object__": "Hong Kong"
+        },
+        {
+          "second": "02",
+          "__object__": "Shanghai"
+        },
+        {
+          "second": "03",
+          "__object__": "Wuhan"
+        },
+        {
+          "second": "04",
+          "__object__": "Xi'An"
+        },
+        {
+          "second": "05",
+          "__object__": "Nanjing"
+        },
+        {
+          "second": "06",
+          "__object__": "Qingdao"
+        },
+        {
+          "second": "07",
+          "__object__": "Changsha"
+        },
+        {
+          "second": "08",
+          "__object__": "Chengdu"
+        },
+        {
+          "second": "09",
+          "__object__": "Kunming"
+        },
+        {
+          "second": "10",
+          "__object__": "Hulunbuir"
+        },
+        {
+          "second": "11",
+          "__object__": "Ürümqi"
+        },
+        {
+          "second": "12",
+          "__object__": "Nanning"
+        },
+        {
+          "second": "13",
+          "__object__": "Chongqing"
+        },
+        {
+          "second": "14",
+          "__object__": "Xiangyang"
+        },
+        {
+          "second": "15",
+          "__object__": "Huanggang"
+        },
+        {
+          "second": "16",
+          "__object__": "Nanchang"
+        },
+        {
+          "second": "17",
+          "__object__": "Jiujiang"
+        },
+        {
+          "second": "18",
+          "__object__": "Enshi City"
+        },
+        {
+          "second": "19",
+          "__object__": "Ankang"
+        },
+        {
+          "second": "20",
+          "__object__": "Zhangjiajie"
+        },
+        {
+          "second": "21",
+          "__object__": "Lanzhou"
+        },
+        {
+          "second": "22",
+          "__object__": "Shengzhou"
+        },
+        {
+          "second": "23",
+          "__object__": "Guangyuan"
+        },
+        {
+          "second": "24",
+          "__object__": "Yaan"
+        },
+        {
+          "second": "25",
+          "__object__": "Chamdo"
+        },
+        {
+          "second": "26",
+          "__object__": "Lhasa"
+        },
+        {
+          "second": "27",
+          "__object__": "Xining"
+        },
+        {
+          "second": "28",
+          "__object__": "Yichang"
+        },
+        {
+          "second": "29",
+          "__object__": "Zunyi"
+        },
+        {
+          "second": "30",
+          "__object__": "Zigong"
+        },
+        {
+          "second": "31",
+          "__object__": "Baise"
+        },
+        {
+          "second": "32",
+          "__object__": "Wenshan Zhuang and Miao Autonomous Prefecture"
+        },
+        {
+          "second": "33",
+          "__object__": "Honghe Hani and Yi Autonomous Prefecture"
+        },
+        {
+          "second": "34",
+          "__object__": "Puer"
+        },
+        {
+          "second": "35",
+          "__object__": "Lincang"
+        },
+        {
+          "second": "36",
+          "__object__": "Liangshan Yi Autonomous Prefecture"
+        },
+        {
+          "second": "37",
+          "__object__": "Panzhihua"
+        },
+        {
+          "second": "38",
+          "__object__": "Zunyi"
+        },
+        {
+          "second": "39",
+          "__object__": "Yaan"
+        },
+        {
+          "second": "40",
+          "__object__": "Nagqu"
+        },
+        {
+          "second": "41",
+          "__object__": "Bayingolin Mongol Autonomous Prefecture"
+        },
+        {
+          "second": "42",
+          "__object__": "Altay Prefecture"
+        },
+        {
+          "second": "43",
+          "__object__": "Baoji"
+        },
+        {
+          "second": "44",
+          "__object__": "Longnan"
+        },
+        {
+          "second": "45",
+          "__object__": "Kashgar Prefecture"
+        },
+        {
+          "second": "46",
+          "__object__": "Haixi Mongol and Tibetan Autonomous Prefecture"
+        },
+        {
+          "second": "47",
+          "__object__": "Haibei"
+        },
+        {
+          "second": "48",
+          "__object__": "Tianshui"
+        },
+        {
+          "second": "49",
+          "__object__": "Fuzhou"
+        },
+        {
+          "second": "50",
+          "__object__": "Ji'An"
+        },
+        {
+          "second": "51",
+          "__object__": "Xiamen"
+        },
+        {
+          "second": "52",
+          "__object__": "Chaozhou"
+        },
+        {
+          "second": "53",
+          "__object__": "Meizhou"
+        },
+        {
+          "second": "54",
+          "__object__": "Bayannur"
+        },
+        {
+          "second": "55",
+          "__object__": "Qiqihar"
+        },
+        {
+          "second": "56",
+          "__object__": "Tongliao"
+        },
+        {
+          "second": "57",
+          "__object__": "Chifeng"
+        },
+        {
+          "second": "58",
+          "__object__": "Xilingol League"
+        },
+        {
+          "second": "59",
+          "__object__": "Zhangjiakou"
+        },
+      ]
+    },
+    {
+      "minutes": "02",
+      "seconds": [
+        {
+          "second": "00",
+          "__object__": "Kishanganj"
+        },
+        {
+          "second": "01",
+          "__object__": "Purnia"
+        },
+        {
+          "second": "02",
+          "__object__": "Imphal"
+        },
+        {
+          "second": "03",
+          "__object__": "Zawngling"
+        },
+        {
+          "second": "04",
+          "__object__": "Khenkhar"
+        },
+        {
+          "second": "05",
+          "__object__": "Khaikhy"
+        },
+        {
+          "second": "06",
+          "__object__": "Lungpuk"
+        },
+        {
+          "second": "07",
+          "__object__": "Lope"
+        },
+        {
+          "second": "08",
+          "__object__": "Supha"
+        },
+        {
+          "second": "09",
+          "__object__": "Mipu"
+        },
+        {
+          "second": "10",
+          "__object__": "Tongkolong"
+        },
+        {
+          "second": "11",
+          "__object__": "Tawngkalawng"
+        },
+        {
+          "second": "12",
+          "__object__": "Phura"
+        },
+        {
+          "second": "13",
+          "__object__": "Liapha"
+        },
+        {
+          "second": "14",
+          "__object__": "New Latawh"
+        },
+        {
+          "second": "15",
+          "__object__": "New Serkawr"
+        },
+        {
+          "second": "16",
+          "__object__": "Kawlchaw East"
+        },
+        {
+          "second": "17",
+          "__object__": "Kawlchaw West"
+        },
+        {
+          "second": "18",
+          "__object__": "Sihtlangpui"
+        },
+        {
+          "second": "19",
+          "__object__": "Chawntlangpui"
+        },
+        {
+          "second": "20",
+          "__object__": "Zeropoint"
+        },
+        {
+          "second": "21",
+          "__object__": "Maubawk L CH"
+        },
+        {
+          "second": "22",
+          "__object__": "Lower Theiva"
+        },
+        {
+          "second": "23",
+          "__object__": "Theiri"
+        },
+        {
+          "second": "24",
+          "__object__": "Tuipang"
+        },
+        {
+          "second": "25",
+          "__object__": "Aivapuri"
+        },
+        {
+          "second": "26",
+          "__object__": "Dairy Veng Tuipang"
+        },
+        {
+          "second": "27",
+          "__object__": "Chheihlu"
+        },
+        {
+          "second": "28",
+          "__object__": "Chakhang"
+        },
+        {
+          "second": "29",
+          "__object__": "Siata"
+        },
+        {
+          "second": "30",
+          "__object__": "Chhuarlung"
+        },
+        {
+          "second": "31",
+          "__object__": "Chhaolo"
+        },
+        {
+          "second": "32",
+          "__object__": "Lungbun"
+        },
+        {
+          "second": "33",
+          "__object__": "Niawhtlang"
+        },
+        {
+          "second": "34",
+          "__object__": "Tlangpuikawn"
+        },
+        {
+          "second": "35",
+          "__object__": "Siaha"
+        },
+        {
+          "second": "36",
+          "__object__": "Bualpui NG E"
+        },
+        {
+          "second": "37",
+          "__object__": "Lungzarhtum"
+        },
+        {
+          "second": "38",
+          "__object__": "Bualpui NG W"
+        },
+        {
+          "second": "39",
+          "__object__": "Bualpui NG"
+        },
+        {
+          "second": "40",
+          "__object__": "Tuisumpui"
+        },
+        {
+          "second": "41",
+          "__object__": "Rawmibawk"
+        },
+        {
+          "second": "42",
+          "__object__": "Phalhrang"
+        },
+        {
+          "second": "43",
+          "__object__": "Mamte"
+        },
+        {
+          "second": "44",
+          "__object__": "Thingfal"
+        },
+        {
+          "second": "45",
+          "__object__": "Khawmawi"
+        },
+        {
+          "second": "46",
+          "__object__": "Mautlang"
+        },
+        {
+          "second": "47",
+          "__object__": "Samang"
+        },
+        {
+          "second": "48",
+          "__object__": "Chawngte"
+        },
+        {
+          "second": "49",
+          "__object__": "Kamalanagar"
+        },
+        {
+          "second": "50",
+          "__object__": "Ngharum"
+        },
+        {
+          "second": "51",
+          "__object__": "Boganpara"
+        },
+        {
+          "second": "52",
+          "__object__": "Vairawkai"
+        },
+        {
+          "second": "53",
+          "__object__": "Zehtet"
+        },
+        {
+          "second": "54",
+          "__object__": "Rualalung"
+        },
+        {
+          "second": "55",
+          "__object__": "Montola"
+        },
+        {
+          "second": "56",
+          "__object__": "Borapansury I"
+        },
+        {
+          "second": "57",
+          "__object__": "Borunasury"
+        },
+        {
+          "second": "58",
+          "__object__": "Khojaisuri"
+        },
+        {
+          "second": "59",
+          "__object__": "Letisuri"
+        },
+      ]
     }
   ]
 }
