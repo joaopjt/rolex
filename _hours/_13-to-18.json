@@ -735,6 +735,251 @@
           "__object__": "Letisuri"
         },
       ]
+    },
+    {
+      "minutes": "03",
+      "seconds": [
+        {
+          "second": "00",
+          "__object__": "Rio de Janeiro"
+        },
+        {
+          "second": "01",
+          "__object__": "Brasilia"
+        },
+        {
+          "second": "02",
+          "__object__": "Natal"
+        },
+        {
+          "second": "03",
+          "__object__": "Aracaju"
+        },
+        {
+          "second": "04",
+          "__object__": "Maceió"
+        },
+        {
+          "second": "05",
+          "__object__": "Rio Branco"
+        },
+        {
+          "second": "06",
+          "__object__": "Manaus"
+        },
+        {
+          "second": "07",
+          "__object__": "Macapá"
+        },
+        {
+          "second": "08",
+          "__object__": "Porto Velho"
+        },
+        {
+          "second": "09",
+          "__object__": "Santarém"
+        },
+        {
+          "second": "10",
+          "__object__": "São Paulo"
+        },
+        {
+          "second": "11",
+          "__object__": "Porto Alegre"
+        },
+        {
+          "second": "12",
+          "__object__": "Curitiba"
+        },
+        {
+          "second": "13",
+          "__object__": "Cuiabá"
+        },
+        {
+          "second": "14",
+          "__object__": "Goiânia"
+        },
+        {
+          "second": "15",
+          "__object__": "Palmas"
+        },
+        {
+          "second": "16",
+          "__object__": "Marabá"
+        },
+        {
+          "second": "17",
+          "__object__": "Gurupi"
+        },
+        {
+          "second": "18",
+          "__object__": "Salvador"
+        },
+        {
+          "second": "19",
+          "__object__": "Florianópolis"
+        },
+        {
+          "second": "20",
+          "__object__": "Campo Grande"
+        },
+        {
+          "second": "21",
+          "__object__": "Araçatuba"
+        },
+        {
+          "second": "22",
+          "__object__": "Juiz de Fora"
+        },
+        {
+          "second": "23",
+          "__object__": "Feijó"
+        },
+        {
+          "second": "24",
+          "__object__": "Cruzeiro do Sul"
+        },
+        {
+          "second": "25",
+          "__object__": "Amapá"
+        },
+        {
+          "second": "26",
+          "__object__": "Bom Retiro do Sul"
+        },
+        {
+          "second": "27",
+          "__object__": "Oriximiná"
+        },
+        {
+          "second": "28",
+          "__object__": "Ribeirão Preto"
+        },
+        {
+          "second": "29",
+          "__object__": "Marília"
+        },
+        {
+          "second": "30",
+          "__object__": "Picos"
+        },
+        {
+          "second": "31",
+          "__object__": "São Luis"
+        },
+        {
+          "second": "32",
+          "__object__": "Belém"
+        },
+        {
+          "second": "33",
+          "__object__": "Oiapoque"
+        },
+        {
+          "second": "34",
+          "__object__": "Altamira"
+        },
+        {
+          "second": "35",
+          "__object__": "Urará"
+        },
+        {
+          "second": "36",
+          "__object__": "Bragança"
+        },
+        {
+          "second": "37",
+          "__object__": "Parnaíba"
+        },
+        {
+          "second": "38",
+          "__object__": "Salinópolis"
+        },
+        {
+          "second": "39",
+          "__object__": "Castanhal"
+        },
+        {
+          "second": "40",
+          "__object__": "Tailândia"
+        },
+        {
+          "second": "41",
+          "__object__": "Pelotas"
+        },
+        {
+          "second": "42",
+          "__object__": "Santa Maria"
+        },
+        {
+          "second": "43",
+          "__object__": "Campinas"
+        },
+        {
+          "second": "44",
+          "__object__": "Araçatuba"
+        },
+        {
+          "second": "45",
+          "__object__": "Governador Valadares"
+        },
+        {
+          "second": "46",
+          "__object__": "Vitória"
+        },
+        {
+          "second": "47",
+          "__object__": "Serra"
+        },
+        {
+          "second": "48",
+          "__object__": "Itarana"
+        },
+        {
+          "second": "49",
+          "__object__": "Ipanema"
+        },
+        {
+          "second": "50",
+          "__object__": "Caratinga"
+        },
+        {
+          "second": "51",
+          "__object__": "Campos"
+        },
+        {
+          "second": "52",
+          "__object__": "Ouro Preto"
+        },
+        {
+          "second": "53",
+          "__object__": "Ipatinga"
+        },
+        {
+          "second": "54",
+          "__object__": "Luziânia"
+        },
+        {
+          "second": "55",
+          "__object__": "Três Pinheiros"
+        },
+        {
+          "second": "56",
+          "__object__": "Imperatriz"
+        },
+        {
+          "second": "57",
+          "__object__": "Dourados"
+        },
+        {
+          "second": "58",
+          "__object__": "Bonito"
+        },
+        {
+          "second": "59",
+          "__object__": "Corumbá"
+        },
+      ]
     }
   ]
 }
