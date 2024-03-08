@@ -150,5 +150,29 @@
       "minutes": "05",
       "seconds": { "__object__": "Dragon Ball Z: Budokai Tenkaichi 3" }
     },
+    {
+      "minutes": "06",
+      "seconds": { "__object__": "Resident Evil 4" }
+    },
+    {
+      "minutes": "07",
+      "seconds": { "__object__": "Bully" }
+    },
+    {
+      "minutes": "08",
+      "seconds": { "__object__": "Need for Speed: Underground 2" }
+    },
+    {
+      "minutes": "09",
+      "seconds": { "__object__": "Midnight Club 3: Dub Edition" }
+    },
+    {
+      "minutes": "10",
+      "seconds": { "__object__": "God of War" }
+    },
+    {
+      "minutes": "11",
+      "seconds": { "__object__": "Black" }
+    },
   ]
 }
