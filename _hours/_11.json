@@ -145,6 +145,10 @@
     {
       "minutes": "04",
       "seconds": { "__object__": "GTA Vice City" }
-    }
+    },
+    {
+      "minutes": "05",
+      "seconds": { "__object__": "Dragon Ball Z: Budokai Tenkaichi 3" }
+    },
   ]
 }
