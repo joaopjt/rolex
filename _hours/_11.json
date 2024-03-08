@@ -134,5 +134,17 @@
         },
       ]
     },
+    {
+      "minutes": "02",
+      "seconds": { "__object__": "Guitar Hero 3 - Legends of Rock" }
+    },
+    {
+      "minutes": "03",
+      "seconds": { "__object__": "GTA San Andreas" }
+    },
+    {
+      "minutes": "04",
+      "seconds": { "__object__": "GTA Vice City" }
+    }
   ]
 }
