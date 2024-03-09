@@ -4,6 +4,22 @@
     {
       "minutes": "00",
       "seconds": { "__object__": "https://soundcloud.com/meoko" }
-    }
+    },
+    {
+      "minutes": "01",
+      "seconds": { "__object__": "https://soundcloud.com/trommelmusic" }
+    },
+    {
+      "minutes": "02",
+      "seconds": { "__object__": "https://soundcloud.com/playedby" }
+    },
+    {
+      "minutes": "03",
+      "seconds": { "__object__": "https://soundcloud.com/djwhile/likes" }
+    },
+    {
+      "minutes": "04",
+      "seconds": { "__object__": "https://soundcloud.com/botanic-000" }
+    },
   ]
 }
