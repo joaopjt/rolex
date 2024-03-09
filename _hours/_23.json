@@ -3686,8 +3686,28 @@
       ]
     },
     {
-      "minutes": "59",
-      "seconds": { "__object__": "Legião Urbana - Mais do Mesmo (Album)" }
+      "minutes": "15",
+      "seconds": { "__object__": "Chris Brown (álbum)" }
+    },
+    {
+      "minutes": "16",
+      "seconds": { "__object__": "Chris Brown - Exclusive (álbum)" }
+    },
+    {
+      "minutes": "17",
+      "seconds": { "__object__": "Rihanna - Good Girl Gone Bad: Reloaded album" }
+    },
+    {
+      "minutes": "18",
+      "seconds": { "__object__": "Rihanna - Loud album" }
+    },
+    {
+      "minutes": "19",
+      "seconds": { "__object__": "Timbaland - Shock Value album" }
+    },
+    {
+      "minutes": "20",
+      "seconds": { "__object__": "Fergie - The Dutchess album" }
     }
   ]
 }
