@@ -3,7 +3,1228 @@
   "minutes": [
     {
       "minutes": "00",
-      "seconds": { "__object__": "Stephan Bodzin - Powers of ten (Album)" }
+      "seconds": [
+        {
+          "second": "00",
+          "__object__": "Astana"
+        },
+        {
+          "second": "01",
+          "__object__": "Karaganda"
+        },
+        {
+          "second": "02",
+          "__object__": "Kievka"
+        },
+        {
+          "second": "03",
+          "__object__": "Osakarovka"
+        },
+        {
+          "second": "04",
+          "__object__": "Molodezhnyy"
+        },
+        {
+          "second": "05",
+          "__object__": "Shiderty"
+        },
+        {
+          "second": "06",
+          "__object__": "Bayet"
+        },
+        {
+          "second": "07",
+          "__object__": "Ekibastuz"
+        },
+        {
+          "second": "08",
+          "__object__": "Karagandyozek"
+        },
+        {
+          "second": "09",
+          "__object__": "Sarykiyak"
+        },
+        {
+          "second": "10",
+          "__object__": "Karashoky"
+        },
+        {
+          "second": "11",
+          "__object__": "Maykain"
+        },
+        {
+          "second": "12",
+          "__object__": "Shoptykol"
+        },
+        {
+          "second": "13",
+          "__object__": "Karasor"
+        },
+        {
+          "second": "14",
+          "__object__": "Bayanaul"
+        },
+        {
+          "second": "15",
+          "__object__": "Kyzylasker"
+        },
+        {
+          "second": "16",
+          "__object__": "Tendyk"
+        },
+        {
+          "second": "17",
+          "__object__": "Karaaschi"
+        },
+        {
+          "second": "18",
+          "__object__": "Tortkol"
+        },
+        {
+          "second": "19",
+          "__object__": "Umutker"
+        },
+        {
+          "second": "20",
+          "__object__": "Bel'agash"
+        },
+        {
+          "second": "21",
+          "__object__": "Zhanatlek"
+        },
+        {
+          "second": "22",
+          "__object__": "Ozernoe"
+        },
+        {
+          "second": "23",
+          "__object__": "Semizbuga"
+        },
+        {
+          "second": "24",
+          "__object__": "Zhayma"
+        },
+        {
+          "second": "25",
+          "__object__": "Korneevka"
+        },
+        {
+          "second": "26",
+          "__object__": "Kulunda"
+        },
+        {
+          "second": "27",
+          "__object__": "Pavlodar"
+        },
+        {
+          "second": "28",
+          "__object__": "Chernoyarka"
+        },
+        {
+          "second": "29",
+          "__object__": "Michurina"
+        },
+        {
+          "second": "30",
+          "__object__": "Pavlodarskiy"
+        },
+        {
+          "second": "31",
+          "__object__": "Moyyldy"
+        },
+        {
+          "second": "32",
+          "__object__": "Koryakovka"
+        },
+        {
+          "second": "33",
+          "__object__": "Efremovka"
+        },
+        {
+          "second": "34",
+          "__object__": "Rozovka"
+        },
+        {
+          "second": "35",
+          "__object__": "Rozhdestvenka"
+        },
+        {
+          "second": "36",
+          "__object__": "Tavolzhan"
+        },
+        {
+          "second": "37",
+          "__object__": "Uspenka"
+        },
+        {
+          "second": "38",
+          "__object__": "Ol'khovka"
+        },
+        {
+          "second": "39",
+          "__object__": "Dostyk"
+        },
+        {
+          "second": "40",
+          "__object__": "Ol'gino"
+        },
+        {
+          "second": "41",
+          "__object__": "Borisovka"
+        },
+        {
+          "second": "42",
+          "__object__": "Karashilik"
+        },
+        {
+          "second": "43",
+          "__object__": "Luganskoye"
+        },
+        {
+          "second": "44",
+          "__object__": "Bogdanovka"
+        },
+        {
+          "second": "45",
+          "__object__": "Dukhovnitskoye"
+        },
+        {
+          "second": "46",
+          "__object__": "Grigor'evka"
+        },
+        {
+          "second": "47",
+          "__object__": "Naberezhnoye"
+        },
+        {
+          "second": "48",
+          "__object__": "Chernoretskoe"
+        },
+        {
+          "second": "49",
+          "__object__": "Presnoe"
+        },
+        {
+          "second": "50",
+          "__object__": "Kyzyltan"
+        },
+        {
+          "second": "51",
+          "__object__": "Baykonys"
+        },
+        {
+          "second": "52",
+          "__object__": "Peschanoe"
+        },
+        {
+          "second": "53",
+          "__object__": "Karasuk"
+        },
+        {
+          "second": "54",
+          "__object__": "Kachīry"
+        },
+        {
+          "second": "55",
+          "__object__": "Beregovoe"
+        },
+        {
+          "second": "56",
+          "__object__": "Zhaskayrat"
+        },
+        {
+          "second": "57",
+          "__object__": "Bobrovo"
+        },
+        {
+          "second": "58",
+          "__object__": "Zhanabet"
+        },
+        {
+          "second": "59",
+          "__object__": "Mohisehevka"
+        },
+      ]
+    },
+    {
+      "minutes": "01",
+      "seconds": [
+        {
+          "second": "00",
+          "__object__": "Jan-Bulak"
+        },
+        {
+          "second": "01",
+          "__object__": "Naryn"
+        },
+        {
+          "second": "02",
+          "__object__": "Tash-Bashat"
+        },
+        {
+          "second": "03",
+          "__object__": "Salkyn-Tor"
+        },
+        {
+          "second": "04",
+          "__object__": "Irii Suu"
+        },
+        {
+          "second": "05",
+          "__object__": "Orto-Saz"
+        },
+        {
+          "second": "06",
+          "__object__": "Emgekchil"
+        },
+        {
+          "second": "07",
+          "__object__": "Jerge Tal"
+        },
+        {
+          "second": "08",
+          "__object__": "Kyzyl-Jyldyz"
+        },
+        {
+          "second": "09",
+          "__object__": "Kuibysheva"
+        },
+        {
+          "second": "10",
+          "__object__": "Min-Bulak"
+        },
+        {
+          "second": "11",
+          "__object__": "Dzhuan-Bulak"
+        },
+        {
+          "second": "12",
+          "__object__": "Tashbulak"
+        },
+        {
+          "second": "13",
+          "__object__": "Khutor Ak-Talaa"
+        },
+        {
+          "second": "14",
+          "__object__": "Ak-Talaa"
+        },
+        {
+          "second": "15",
+          "__object__": "Kulanak"
+        },
+        {
+          "second": "16",
+          "__object__": "Tegerek-Kyrchin"
+        },
+        {
+          "second": "17",
+          "__object__": "Laylysu"
+        },
+        {
+          "second": "18",
+          "__object__": "Uzgorysh"
+        },
+        {
+          "second": "19",
+          "__object__": "Segizinchi Mart"
+        },
+        {
+          "second": "20",
+          "__object__": "Uzgorysh"
+        },
+        {
+          "second": "21",
+          "__object__": "Uchkun"
+        },
+        {
+          "second": "22",
+          "__object__": "Dzhilanaryk"
+        },
+        {
+          "second": "23",
+          "__object__": "Ak-Kuduk"
+        },
+        {
+          "second": "24",
+          "__object__": "Dzhilanaryk"
+        },
+        {
+          "second": "25",
+          "__object__": "Ak-Suu"
+        },
+        {
+          "second": "26",
+          "__object__": "Kyzyl-Bayrak"
+        },
+        {
+          "second": "27",
+          "__object__": "Kara-Oi"
+        },
+        {
+          "second": "28",
+          "__object__": "Ak-Tal"
+        },
+        {
+          "second": "29",
+          "__object__": "Dzhangytelek"
+        },
+        {
+          "second": "30",
+          "__object__": "Sarybulak"
+        },
+        {
+          "second": "31",
+          "__object__": "Jangy-Talap"
+        },
+        {
+          "second": "32",
+          "__object__": "Ekachat"
+        },
+        {
+          "second": "33",
+          "__object__": "Karakeche"
+        },
+        {
+          "second": "34",
+          "__object__": "Dzholkara"
+        },
+        {
+          "second": "35",
+          "__object__": "Bash-Kuugandy"
+        },
+        {
+          "second": "36",
+          "__object__": "Dzhangyaryk"
+        },
+        {
+          "second": "37",
+          "__object__": "Kok Dzhar"
+        },
+        {
+          "second": "38",
+          "__object__": "Kochkor"
+        },
+        {
+          "second": "39",
+          "__object__": "Semiz Bel"
+        },
+        {
+          "second": "40",
+          "__object__": "Chaek"
+        },
+        {
+          "second": "41",
+          "__object__": "Balykchy"
+        },
+        {
+          "second": "42",
+          "__object__": "Ottuk"
+        },
+        {
+          "second": "43",
+          "__object__": "Kok Moynok Eki"
+        },
+        {
+          "second": "44",
+          "__object__": "Cholpon Ata"
+        },
+        {
+          "second": "45",
+          "__object__": "Chok Tal"
+        },
+        {
+          "second": "46",
+          "__object__": "Toru Aygyr"
+        },
+        {
+          "second": "47",
+          "__object__": "Kosh Kol"
+        },
+        {
+          "second": "48",
+          "__object__": "Tamchy"
+        },
+        {
+          "second": "49",
+          "__object__": "Koshkol'"
+        },
+        {
+          "second": "50",
+          "__object__": "Tegirmenti"
+        },
+        {
+          "second": "51",
+          "__object__": "Shabdan"
+        },
+        {
+          "second": "52",
+          "__object__": "Tort-Kul'"
+        },
+        {
+          "second": "53",
+          "__object__": "Krasnyy Most"
+        },
+        {
+          "second": "54",
+          "__object__": "Kemin"
+        },
+        {
+          "second": "55",
+          "__object__": "Jany-Alysh"
+        },
+        {
+          "second": "56",
+          "__object__": "Chym-Korgon"
+        },
+        {
+          "second": "57",
+          "__object__": "Orlovka"
+        },
+        {
+          "second": "58",
+          "__object__": "Podgornoye"
+        },
+        {
+          "second": "59",
+          "__object__": "Saylyk"
+        },
+      ]
+    },
+    {
+      "minutes": "02",
+      "seconds": [
+        {
+          "second": "00",
+          "__object__": "Kyiv"
+        },
+        {
+          "second": "01",
+          "__object__": "Lviv"
+        },
+        {
+          "second": "02",
+          "__object__": "Kharkiv"
+        },
+        {
+          "second": "03",
+          "__object__": "Luhansk"
+        },
+        {
+          "second": "04",
+          "__object__": "Odesa"
+        },
+        {
+          "second": "05",
+          "__object__": "Uzhhorod"
+        },
+        {
+          "second": "06",
+          "__object__": "Lutsk"
+        },
+        {
+          "second": "07",
+          "__object__": "Chernihiv"
+        },
+        {
+          "second": "08",
+          "__object__": "Sumy"
+        },
+        {
+          "second": "09",
+          "__object__": "Dnipro"
+        },
+        {
+          "second": "10",
+          "__object__": "Severdonetsk"
+        },
+        {
+          "second": "11",
+          "__object__": "Mariupol"
+        },
+        {
+          "second": "12",
+          "__object__": "Sevastopol"
+        },
+        {
+          "second": "13",
+          "__object__": "Kerch"
+        },
+        {
+          "second": "14",
+          "__object__": "Illintsi"
+        },
+        {
+          "second": "15",
+          "__object__": "Monastyryshche"
+        },
+        {
+          "second": "16",
+          "__object__": "Zhashkiv"
+        },
+        {
+          "second": "17",
+          "__object__": "Lypovets"
+        },
+        {
+          "second": "18",
+          "__object__": "Rososha"
+        },
+        {
+          "second": "19",
+          "__object__": "Plyskiv"
+        },
+        {
+          "second": "20",
+          "__object__": "Pohrebyshche"
+        },
+        {
+          "second": "21",
+          "__object__": "Hopchytsya"
+        },
+        {
+          "second": "22",
+          "__object__": "Dzyun'kiv"
+        },
+        {
+          "second": "23",
+          "__object__": "Tetiiv"
+        },
+        {
+          "second": "24",
+          "__object__": "P'yatyhory"
+        },
+        {
+          "second": "25",
+          "__object__": "Cherkasy"
+        },
+        {
+          "second": "26",
+          "__object__": "Enerhodar"
+        },
+        {
+          "second": "27",
+          "__object__": "Orativ"
+        },
+        {
+          "second": "28",
+          "__object__": "Stavyshche"
+        },
+        {
+          "second": "29",
+          "__object__": "Antonivka"
+        },
+        {
+          "second": "30",
+          "__object__": "Heisykha"
+        },
+        {
+          "second": "31",
+          "__object__": "Stanislavchyk"
+        },
+        {
+          "second": "32",
+          "__object__": "Skybyn"
+        },
+        {
+          "second": "33",
+          "__object__": "Rozumnytsya"
+        },
+        {
+          "second": "34",
+          "__object__": "Popruzhna"
+        },
+        {
+          "second": "35",
+          "__object__": "Vynarivka"
+        },
+        {
+          "second": "36",
+          "__object__": "Kryvetz"
+        },
+        {
+          "second": "37",
+          "__object__": "Zhytomyr"
+        },
+        {
+          "second": "38",
+          "__object__": "Zaporizhzhia"
+        },
+        {
+          "second": "39",
+          "__object__": "Mariupol"
+        },
+        {
+          "second": "40",
+          "__object__": "Berdyans'k"
+        },
+        {
+          "second": "41",
+          "__object__": "Melitopol'"
+        },
+        {
+          "second": "42",
+          "__object__": "Heniches'k"
+        },
+        {
+          "second": "43",
+          "__object__": "Skadovs'k"
+        },
+        {
+          "second": "44",
+          "__object__": "Antonivka"
+        },
+        {
+          "second": "45",
+          "__object__": "Sumy"
+        },
+        {
+          "second": "46",
+          "__object__": "Pishchane"
+        },
+        {
+          "second": "47",
+          "__object__": "Oleksandriya"
+        },
+        {
+          "second": "48",
+          "__object__": "Prokhody"
+        },
+        {
+          "second": "49",
+          "__object__": "Stepok"
+        },
+        {
+          "second": "50",
+          "__object__": "Pokrovka"
+        },
+        {
+          "second": "51",
+          "__object__": "Hrabovs'ke"
+        },
+        {
+          "second": "52",
+          "__object__": "Slavhorod"
+        },
+        {
+          "second": "53",
+          "__object__": "Velyka Pysarivka"
+        },
+        {
+          "second": "54",
+          "__object__": "Lyutivka"
+        },
+        {
+          "second": "55",
+          "__object__": "Synyavka"
+        },
+        {
+          "second": "56",
+          "__object__": "Buda"
+        },
+        {
+          "second": "57",
+          "__object__": "Koryukivka"
+        },
+        {
+          "second": "58",
+          "__object__": "Khodyne"
+        },
+        {
+          "second": "59",
+          "__object__": "Bunyakyne"
+        },
+      ]
+    },
+    {
+      "minutes": "03",
+      "seconds": [
+        {
+          "second": "00",
+          "__object__": "Kazan"
+        },
+        {
+          "second": "01",
+          "__object__": "Moscow"
+        },
+        {
+          "second": "02",
+          "__object__": "Syktyvkar"
+        },
+        {
+          "second": "03",
+          "__object__": "Yaroslavl"
+        },
+        {
+          "second": "04",
+          "__object__": "Koryazhma"
+        },
+        {
+          "second": "05",
+          "__object__": "Vologda"
+        },
+        {
+          "second": "06",
+          "__object__": "Ulyanovsk"
+        },
+        {
+          "second": "07",
+          "__object__": "St Petersburg"
+        },
+        {
+          "second": "08",
+          "__object__": "Petrozavodsk"
+        },
+        {
+          "second": "09",
+          "__object__": "Saratov"
+        },
+        {
+          "second": "10",
+          "__object__": "Krasnodar"
+        },
+        {
+          "second": "11",
+          "__object__": "Makhachkala"
+        },
+        {
+          "second": "12",
+          "__object__": "Nalchik"
+        },
+        {
+          "second": "13",
+          "__object__": "Astrakhan"
+        },
+        {
+          "second": "14",
+          "__object__": "Volgograd"
+        },
+        {
+          "second": "15",
+          "__object__": "Volgodonsk"
+        },
+        {
+          "second": "16",
+          "__object__": "Elista"
+        },
+        {
+          "second": "17",
+          "__object__": "Stavropol"
+        },
+        {
+          "second": "18",
+          "__object__": "Derbent"
+        },
+        {
+          "second": "19",
+          "__object__": "Grozny"
+        },
+        {
+          "second": "20",
+          "__object__": "Komsomol'skii"
+        },
+        {
+          "second": "21",
+          "__object__": "Enotaevka"
+        },
+        {
+          "second": "22",
+          "__object__": "Astrakhan"
+        },
+        {
+          "second": "23",
+          "__object__": "Kochubei"
+        },
+        {
+          "second": "24",
+          "__object__": "Russkii Khutor"
+        },
+        {
+          "second": "25",
+          "__object__": "Akhtubinsk"
+        },
+        {
+          "second": "26",
+          "__object__": "Bakhanay"
+        },
+        {
+          "second": "27",
+          "__object__": "Narimanov"
+        },
+        {
+          "second": "28",
+          "__object__": "Voronezh"
+        },
+        {
+          "second": "29",
+          "__object__": "Kursk"
+        },
+        {
+          "second": "30",
+          "__object__": "Rylsk"
+        },
+        {
+          "second": "31",
+          "__object__": "Lgov"
+        },
+        {
+          "second": "32",
+          "__object__": "Shustovo"
+        },
+        {
+          "second": "33",
+          "__object__": "Gorshechnoye"
+        },
+        {
+          "second": "34",
+          "__object__": "Novy Oskol"
+        },
+        {
+          "second": "35",
+          "__object__": "Rep'evka"
+        },
+        {
+          "second": "36",
+          "__object__": "Tyumen"
+        },
+        {
+          "second": "37",
+          "__object__": "Omsk"
+        },
+        {
+          "second": "38",
+          "__object__": "Novosibirsk"
+        },
+        {
+          "second": "39",
+          "__object__": "Krasnoyarsk"
+        },
+        {
+          "second": "40",
+          "__object__": "Bratsk"
+        },
+        {
+          "second": "41",
+          "__object__": "Yakutsk"
+        },
+        {
+          "second": "42",
+          "__object__": "Saskylakh"
+        },
+        {
+          "second": "43",
+          "__object__": "Srednekolymsk"
+        },
+        {
+          "second": "44",
+          "__object__": "Omsukchan"
+        },
+        {
+          "second": "45",
+          "__object__": "Khabarovsk"
+        },
+        {
+          "second": "46",
+          "__object__": "Nakhodka"
+        },
+        {
+          "second": "47",
+          "__object__": "Solov'evsk"
+        },
+        {
+          "second": "48",
+          "__object__": "Chita"
+        },
+        {
+          "second": "49",
+          "__object__": "Ulan-Ude"
+        },
+        {
+          "second": "50",
+          "__object__": "Khilok"
+        },
+        {
+          "second": "51",
+          "__object__": "Linevo Ozero"
+        },
+        {
+          "second": "52",
+          "__object__": "Khorinsk"
+        },
+        {
+          "second": "53",
+          "__object__": "Ust-Barguzin"
+        },
+        {
+          "second": "54",
+          "__object__": "Khanty-Mansiysk"
+        },
+        {
+          "second": "55",
+          "__object__": "Sennoi"
+        },
+        {
+          "second": "56",
+          "__object__": "Yablonovsky"
+        },
+        {
+          "second": "57",
+          "__object__": "Maykop"
+        },
+        {
+          "second": "58",
+          "__object__": "Armavir"
+        },
+        {
+          "second": "59",
+          "__object__": "Rostov-on-Don"
+        },
+      ]
+    },
+    {
+      "minutes": "04",
+      "seconds": [
+        {
+          "second": "00",
+          "__object__": "Munich"
+        },
+        {
+          "second": "01",
+          "__object__": "Kassel"
+        },
+        {
+          "second": "02",
+          "__object__": "Leipzig"
+        },
+        {
+          "second": "03",
+          "__object__": "Dresden"
+        },
+        {
+          "second": "04",
+          "__object__": "Regensburg"
+        },
+        {
+          "second": "05",
+          "__object__": "Bielefeld"
+        },
+        {
+          "second": "06",
+          "__object__": "Munster"
+        },
+        {
+          "second": "07",
+          "__object__": "Bonn"
+        },
+        {
+          "second": "08",
+          "__object__": "Heidelberg"
+        },
+        {
+          "second": "09",
+          "__object__": "Hamburg"
+        },
+        {
+          "second": "10",
+          "__object__": "Bremen"
+        },
+        {
+          "second": "11",
+          "__object__": "Osnabruck"
+        },
+        {
+          "second": "12",
+          "__object__": "Hildesheim"
+        },
+        {
+          "second": "13",
+          "__object__": "Cottbus"
+        },
+        {
+          "second": "14",
+          "__object__": "Berlin"
+        },
+        {
+          "second": "15",
+          "__object__": "Waren"
+        },
+        {
+          "second": "16",
+          "__object__": "Neubrandenburg"
+        },
+        {
+          "second": "17",
+          "__object__": "Kassel"
+        },
+        {
+          "second": "18",
+          "__object__": "Darmstadt"
+        },
+        {
+          "second": "19",
+          "__object__": "Cologne"
+        },
+        {
+          "second": "20",
+          "__object__": "Mainz"
+        },
+        {
+          "second": "21",
+          "__object__": "Wolfsburg"
+        },
+        {
+          "second": "22",
+          "__object__": "Karlsruhe"
+        },
+        {
+          "second": "23",
+          "__object__": "Strutgard"
+        },
+        {
+          "second": "24",
+          "__object__": "Freiburg im Breisgau"
+        },
+        {
+          "second": "25",
+          "__object__": "Titisee-Neustadt"
+        },
+        {
+          "second": "26",
+          "__object__": "Bünde"
+        },
+        {
+          "second": "27",
+          "__object__": "Frankfurt"
+        },
+        {
+          "second": "28",
+          "__object__": "Gottingen"
+        },
+        {
+          "second": "29",
+          "__object__": "Dusseldorf"
+        },
+        {
+          "second": "30",
+          "__object__": "Saarbrucken"
+        },
+        {
+          "second": "31",
+          "__object__": "Jena"
+        },
+        {
+          "second": "32",
+          "__object__": "Augsburg"
+        },
+        {
+          "second": "33",
+          "__object__": "Wurzburg"
+        },
+        {
+          "second": "34",
+          "__object__": "Dortmund"
+        },
+        {
+          "second": "35",
+          "__object__": "Paderborn"
+        },
+        {
+          "second": "36",
+          "__object__": "Bayreuth"
+        },
+        {
+          "second": "37",
+          "__object__": "Ingolstadt"
+        },
+        {
+          "second": "38",
+          "__object__": "Erfurt"
+        },
+        {
+          "second": "39",
+          "__object__": "Halle (Saale)"
+        },
+        {
+          "second": "40",
+          "__object__": "Sangerhausen"
+        },
+        {
+          "second": "41",
+          "__object__": "Munster"
+        },
+        {
+          "second": "42",
+          "__object__": "Saarbrucken"
+        },
+        {
+          "second": "43",
+          "__object__": "Bielefeld"
+        },
+        {
+          "second": "44",
+          "__object__": "Hanover"
+        },
+        {
+          "second": "45",
+          "__object__": "Oranienburg"
+        },
+        {
+          "second": "46",
+          "__object__": "Hamburg"
+        },
+        {
+          "second": "47",
+          "__object__": "Lubeck"
+        },
+        {
+          "second": "48",
+          "__object__": "Rostock"
+        },
+        {
+          "second": "49",
+          "__object__": "Luneburg"
+        },
+        {
+          "second": "50",
+          "__object__": "Oldenburg"
+        },
+        {
+          "second": "51",
+          "__object__": "Bremen"
+        },
+        {
+          "second": "52",
+          "__object__": "Neubrandenburg"
+        },
+        {
+          "second": "53",
+          "__object__": "Flensburg"
+        },
+        {
+          "second": "54",
+          "__object__": "Kiel"
+        },
+        {
+          "second": "55",
+          "__object__": "Rosenheim"
+        },
+        {
+          "second": "56",
+          "__object__": "Karlsruhe"
+        },
+        {
+          "second": "57",
+          "__object__": "Nuremberg"
+        },
+        {
+          "second": "58",
+          "__object__": "Ulm"
+        },
+        {
+          "second": "59",
+          "__object__": "Augsburg"
+        },
+      ]
     },
   ]
 }

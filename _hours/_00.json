@@ -492,251 +492,6 @@
       ]
     },
     {
-      "minutes": "02",
-      "seconds": [
-        {
-          "second": "00",
-          "__object__": ""
-        },
-        {
-          "second": "01",
-          "__object__": ""
-        },
-        {
-          "second": "02",
-          "__object__": ""
-        },
-        {
-          "second": "03",
-          "__object__": ""
-        },
-        {
-          "second": "04",
-          "__object__": ""
-        },
-        {
-          "second": "05",
-          "__object__": ""
-        },
-        {
-          "second": "06",
-          "__object__": ""
-        },
-        {
-          "second": "07",
-          "__object__": ""
-        },
-        {
-          "second": "08",
-          "__object__": ""
-        },
-        {
-          "second": "09",
-          "__object__": ""
-        },
-        {
-          "second": "10",
-          "__object__": ""
-        },
-        {
-          "second": "11",
-          "__object__": ""
-        },
-        {
-          "second": "12",
-          "__object__": ""
-        },
-        {
-          "second": "13",
-          "__object__": ""
-        },
-        {
-          "second": "14",
-          "__object__": ""
-        },
-        {
-          "second": "15",
-          "__object__": ""
-        },
-        {
-          "second": "16",
-          "__object__": ""
-        },
-        {
-          "second": "17",
-          "__object__": ""
-        },
-        {
-          "second": "18",
-          "__object__": ""
-        },
-        {
-          "second": "19",
-          "__object__": ""
-        },
-        {
-          "second": "20",
-          "__object__": ""
-        },
-        {
-          "second": "21",
-          "__object__": ""
-        },
-        {
-          "second": "22",
-          "__object__": ""
-        },
-        {
-          "second": "23",
-          "__object__": ""
-        },
-        {
-          "second": "24",
-          "__object__": ""
-        },
-        {
-          "second": "25",
-          "__object__": ""
-        },
-        {
-          "second": "26",
-          "__object__": ""
-        },
-        {
-          "second": "27",
-          "__object__": ""
-        },
-        {
-          "second": "28",
-          "__object__": ""
-        },
-        {
-          "second": "29",
-          "__object__": ""
-        },
-        {
-          "second": "30",
-          "__object__": ""
-        },
-        {
-          "second": "31",
-          "__object__": ""
-        },
-        {
-          "second": "32",
-          "__object__": ""
-        },
-        {
-          "second": "33",
-          "__object__": ""
-        },
-        {
-          "second": "34",
-          "__object__": ""
-        },
-        {
-          "second": "35",
-          "__object__": ""
-        },
-        {
-          "second": "36",
-          "__object__": ""
-        },
-        {
-          "second": "37",
-          "__object__": ""
-        },
-        {
-          "second": "38",
-          "__object__": ""
-        },
-        {
-          "second": "39",
-          "__object__": ""
-        },
-        {
-          "second": "40",
-          "__object__": ""
-        },
-        {
-          "second": "41",
-          "__object__": ""
-        },
-        {
-          "second": "42",
-          "__object__": ""
-        },
-        {
-          "second": "43",
-          "__object__": ""
-        },
-        {
-          "second": "44",
-          "__object__": ""
-        },
-        {
-          "second": "45",
-          "__object__": ""
-        },
-        {
-          "second": "46",
-          "__object__": ""
-        },
-        {
-          "second": "47",
-          "__object__": ""
-        },
-        {
-          "second": "48",
-          "__object__": ""
-        },
-        {
-          "second": "49",
-          "__object__": ""
-        },
-        {
-          "second": "50",
-          "__object__": ""
-        },
-        {
-          "second": "51",
-          "__object__": ""
-        },
-        {
-          "second": "52",
-          "__object__": ""
-        },
-        {
-          "second": "53",
-          "__object__": ""
-        },
-        {
-          "second": "54",
-          "__object__": ""
-        },
-        {
-          "second": "55",
-          "__object__": ""
-        },
-        {
-          "second": "56",
-          "__object__": ""
-        },
-        {
-          "second": "57",
-          "__object__": ""
-        },
-        {
-          "second": "58",
-          "__object__": ""
-        },
-        {
-          "second": "59",
-          "__object__": ""
-        },
-      ]
-    },
-    {
       "minutes": "03",
       "seconds": [
         {
@@ -986,738 +741,248 @@
       "seconds": [
         {
           "second": "00",
-          "__object__": "Habbo"
+          "__object__": ""
         },
         {
           "second": "01",
-          "__object__": "Mu Chaos"
+          "__object__": ""
         },
         {
           "second": "02",
-          "__object__": "Counter-strike 1.6"
+          "__object__": ""
         },
         {
           "second": "03",
-          "__object__": "Dota 2"
+          "__object__": ""
         },
         {
           "second": "04",
-          "__object__": "World of Warcraft"
+          "__object__": ""
         },
         {
           "second": "05",
-          "__object__": "Age of Empires 2"
+          "__object__": ""
         },
         {
           "second": "06",
-          "__object__": "Crash Bandicoot"
+          "__object__": ""
         },
         {
           "second": "07",
-          "__object__": "Jackie Chan Stuntmaster"
+          "__object__": ""
         },
         {
           "second": "08",
-          "__object__": "Harvest Moon"
+          "__object__": ""
         },
         {
           "second": "09",
-          "__object__": "Yu-Gi-Oh! Forbidden Memories"
+          "__object__": ""
         },
         {
           "second": "10",
-          "__object__": "Tony Hawk Pro Skater 4"
+          "__object__": ""
         },
         {
           "second": "11",
-          "__object__": "Tekken 3"
+          "__object__": ""
         },
         {
           "second": "12",
-          "__object__": "Spider-man 2"
+          "__object__": ""
         },
         {
           "second": "13",
-          "__object__": "Resident Evil 2"
+          "__object__": ""
         },
         {
           "second": "14",
-          "__object__": "Medal of Honor: Underground"
+          "__object__": ""
         },
         {
           "second": "15",
-          "__object__": "Resident Evil 2"
+          "__object__": ""
         },
         {
           "second": "16",
-          "__object__": "Mortal Kombat - Shaolin Monks"
+          "__object__": ""
         },
         {
           "second": "17",
-          "__object__": "Need for Speed: Underground 2"
+          "__object__": ""
         },
         {
           "second": "18",
-          "__object__": "Fifa Street 2"
+          "__object__": ""
         },
         {
           "second": "19",
-          "__object__": "Batman LEGO"
+          "__object__": ""
         },
         {
           "second": "20",
-          "__object__": "Grand Theft Auto: Vice City"
+          "__object__": ""
         },
         {
           "second": "21",
-          "__object__": "Minecraft"
+          "__object__": ""
         },
         {
           "second": "22",
-          "__object__": "Portal 2"
+          "__object__": ""
         },
         {
           "second": "23",
-          "__object__": "Red Dead Redemption"
+          "__object__": ""
         },
         {
           "second": "24",
-          "__object__": "The last of us"
+          "__object__": ""
         },
         {
           "second": "25",
-          "__object__": "The elder of scrolls V Skyrim"
+          "__object__": ""
         },
         {
           "second": "26",
-          "__object__": "Hellboy"
+          "__object__": ""
         },
         {
           "second": "27",
-          "__object__": "Sim City 2000"
+          "__object__": ""
         },
         {
           "second": "28",
-          "__object__": "Warcraft 2"
+          "__object__": ""
         },
         {
           "second": "29",
-          "__object__": "Starcraft"
+          "__object__": ""
         },
         {
           "second": "30",
-          "__object__": "Ragnarok"
+          "__object__": ""
         },
         {
           "second": "31",
-          "__object__": "Diablo 2"
+          "__object__": ""
         },
         {
           "second": "32",
-          "__object__": "Civilization II"
+          "__object__": ""
         },
         {
           "second": "33",
-          "__object__": "Counter-Strike: Condition Zero"
+          "__object__": ""
         },
         {
           "second": "34",
-          "__object__": "Street Fighter 2"
+          "__object__": ""
         },
         {
           "second": "35",
-          "__object__": "Medal of Honor: Allied Assault"
+          "__object__": ""
         },
         {
           "second": "36",
-          "__object__": "Call of Duty"
+          "__object__": ""
         },
         {
           "second": "37",
-          "__object__": "Battlefield 2"
+          "__object__": ""
         },
         {
           "second": "38",
-          "__object__": "Doom 3"
+          "__object__": ""
         },
         {
           "second": "39",
-          "__object__": "Worms"
+          "__object__": ""
         },
         {
           "second": "40",
-          "__object__": "GunZ: The Duel"
+          "__object__": ""
         },
         {
           "second": "41",
-          "__object__": "Max Payne"
+          "__object__": ""
         },
         {
           "second": "42",
-          "__object__": "Half-Life 2"
+          "__object__": ""
         },
         {
           "second": "43",
-          "__object__": "Commandos"
+          "__object__": ""
         },
         {
           "second": "44",
-          "__object__": "The Sims"
+          "__object__": ""
         },
         {
           "second": "45",
-          "__object__": "Grand Theft Auto IV"
+          "__object__": ""
         },
         {
           "second": "46",
-          "__object__": "Quake"
+          "__object__": ""
         },
         {
           "second": "47",
-          "__object__": "Command & Conquer"
+          "__object__": ""
         },
         {
           "second": "48",
-          "__object__": "Halo: Combat Evolved"
+          "__object__": ""
         },
         {
           "second": "49",
-          "__object__": "Warcraft: Orcs & Humans"
+          "__object__": ""
         },
         {
           "second": "50",
-          "__object__": "Transformice"
+          "__object__": ""
         },
         {
           "second": "51",
-          "__object__": "Fallout"
+          "__object__": ""
         },
         {
           "second": "52",
-          "__object__": "DOOM"
+          "__object__": ""
         },
         {
           "second": "53",
-          "__object__": "Aladdin"
+          "__object__": ""
         },
         {
           "second": "54",
-          "__object__": "Grand Theft Auto: San Andreas"
+          "__object__": ""
         },
         {
           "second": "55",
-          "__object__": "Resident Evil Code: Veronica"
+          "__object__": ""
         },
         {
           "second": "56",
-          "__object__": "Wolfenstein 3D"
+          "__object__": ""
         },
         {
           "second": "57",
-          "__object__": "Duke Nukem"
+          "__object__": ""
         },
         {
           "second": "58",
-          "__object__": "Prince of Persia"
+          "__object__": ""
         },
         {
           "second": "59",
-          "__object__": "World of Warcraft"
+          "__object__": ""
         },
       ]
     },
     {
       "minutes": "05",
-      "seconds": [
-        {
-          "second": "00",
-          "__object__": "Carly Rae Jepsen - Call Me Maybe"
-        },
-        {
-          "second": "01",
-          "__object__": "Slash - Beautiful Dangerous (feat. Fergie)"
-        },
-        {
-          "second": "02",
-          "__object__": "Justin Bieber - Beauty And A Beat"
-        },
-        {
-          "second": "03",
-          "__object__": "Jamiroquai - Seven Days in Sunny June"
-        },
-        {
-          "second": "04",
-          "__object__": "Lifehouse - Central Park"
-        },
-        {
-          "second": "05",
-          "__object__": "Jhené Aiko - P*$$Y FAIRY"
-        },
-        {
-          "second": "06",
-          "__object__": "Format:B - Chunky"
-        },
-        {
-          "second": "07",
-          "__object__": "Calvin Harris - We'll Be Coming Back"
-        },
-        {
-          "second": "08",
-          "__object__": "Hooverphonic - Romantic"
-        },
-        {
-          "second": "09",
-          "__object__": "As Quatro Estações - Sandy & Junior"
-        },
-        {
-          "second": "10",
-          "__object__": "Zedd - Clarity"
-        },
-        {
-          "second": "11",
-          "__object__": "ROSÉ - On The Ground"
-        },
-        {
-          "second": "12",
-          "__object__": "Tokio Hotel - Monsoon"
-        },
-        {
-          "second": "13",
-          "__object__": "Duran Duran - Ordinary World"
-        },
-        {
-          "second": "14",
-          "__object__": "Rihanna - Umbrella (Orange Version)"
-        },
-        {
-          "second": "15",
-          "__object__": "Bosse - Frankfurt Oder"
-        },
-        {
-          "second": "16",
-          "__object__": "Katy Perry - Last Friday Night"
-        },
-        {
-          "second": "17",
-          "__object__": "Mark Ronson - Uptown Funk ft. Bruno Mars"
-        },
-        {
-          "second": "18",
-          "__object__": "Coldplay - Paradise"
-        },
-        {
-          "second": "19",
-          "__object__": "The Black Eyed Peas - The Time (Dirty Bit)"
-        },
-        {
-          "second": "20",
-          "__object__": "JoJo - Too Little Too Late"
-        },
-        {
-          "second": "21",
-          "__object__": "Pitbull - Give Me Everything"
-        },
-        {
-          "second": "22",
-          "__object__": "Joe Jonas - Just in love"
-        },
-        {
-          "second": "23",
-          "__object__": "Justin Timberlake - Mirrors"
-        },
-        {
-          "second": "24",
-          "__object__": "Nelly Furtado - Promiscuous"
-        },
-        {
-          "second": "25",
-          "__object__": "Maroon 5 - Sugar"
-        },
-        {
-          "second": "26",
-          "__object__": "Rihanna - Where have you been"
-        },
-        {
-          "second": "27",
-          "__object__": "Chris Brown - With You"
-        },
-        {
-          "second": "28",
-          "__object__": "Katy Perry - Roar"
-        },
-        {
-          "second": "29",
-          "__object__": "Foster The People - Pumped Up Kicks"
-        },
-        {
-          "second": "30",
-          "__object__": "Ed Sheeran - Thinking Out Loud"
-        },
-        {
-          "second": "31",
-          "__object__": "Justin Bieber - Sorry"
-        },
-        {
-          "second": "32",
-          "__object__": "Fergie - Big Girls Don't Cry"
-        },
-        {
-          "second": "33",
-          "__object__": "Calvin Harris - Sweet Nothing"
-        },
-        {
-          "second": "34",
-          "__object__": "Foo Fighters - Walk"
-        },
-        {
-          "second": "35",
-          "__object__": "Jessie J - Price Tag"
-        },
-        {
-          "second": "36",
-          "__object__": "Taylor Swift - Shake it Off"
-        },
-        {
-          "second": "37",
-          "__object__": "B.o.B - Nothing' On You (feat. Bruno Mars)"
-        },
-        {
-          "second": "38",
-          "__object__": "Taylor Swift - Blank Space"
-        },
-        {
-          "second": "39",
-          "__object__": "Bruno Mars - The Lazy Song"
-        },
-        {
-          "second": "40",
-          "__object__": "Meghan Trainor - All About That Bass"
-        },
-        {
-          "second": "41",
-          "__object__": "Drake - Hotline Bling"
-        },
-        {
-          "second": "42",
-          "__object__": "The Wanted - Glad you came"
-        },
-        {
-          "second": "43",
-          "__object__": "Jennifer Lopez - On The Floor"
-        },
-        {
-          "second": "44",
-          "__object__": "John Legend - All of Me"
-        },
-        {
-          "second": "45",
-          "__object__": "Travie McCoy - Billionaire"
-        },
-        {
-          "second": "46",
-          "__object__": "Pitbull - Timber"
-        },
-        {
-          "second": "47",
-          "__object__": "Robin Thicke - Blurred Lines ft. T.I., Pharrell"
-        },
-        {
-          "second": "48",
-          "__object__": "Rihanna - Diamonds"
-        },
-        {
-          "second": "49",
-          "__object__": "Jessie J - Bang Bang"
-        },
-        {
-          "second": "50",
-          "__object__": "Bruno Mars - 24K Magic"
-        },
-        {
-          "second": "51",
-          "__object__": "Gotye - Somebody I Used To Know"
-        },
-        {
-          "second": "52",
-          "__object__": "Taylor Swift - Look what you made me do"
-        },
-        {
-          "second": "53",
-          "__object__": "Bruno Mars - Locked Out Of Heaven"
-        },
-        {
-          "second": "54",
-          "__object__": "Pitbull - Rain Over Me"
-        },
-        {
-          "second": "55",
-          "__object__": "Outkast - Mr. Jackson"
-        },
-        {
-          "second": "56",
-          "__object__": "Justin Bieber - Boyfriend"
-        },
-        {
-          "second": "57",
-          "__object__": "Swedish House Mafia - Don't You Worry Child"
-        },
-        {
-          "second": "58",
-          "__object__": "Harry Styles - Sign of the Times"
-        },
-        {
-          "second": "59",
-          "__object__": "Rihanna - Stay"
-        },
-      ]
-    },
-    {
-      "minutes": "06",
-      "seconds": [
-        {
-          "second": "00",
-          "__object__": "Norbit"
-        },
-        {
-          "second": "01",
-          "__object__": "Daddy Day Care"
-        },
-        {
-          "second": "02",
-          "__object__": "Minuteman"
-        },
-        {
-          "second": "03",
-          "__object__": "The wizard of Oz"
-        },
-        {
-          "second": "04",
-          "__object__": "Forrest Gump"
-        },
-        {
-          "second": "05",
-          "__object__": "The silence of the Lambs"
-        },
-        {
-          "second": "06",
-          "__object__": ""
-        },
-        {
-          "second": "07",
-          "__object__": ""
-        },
-        {
-          "second": "08",
-          "__object__": "The Dark Knight"
-        },
-        {
-          "second": "09",
-          "__object__": ""
-        },
-        {
-          "second": "10",
-          "__object__": "Fargo"
-        },
-        {
-          "second": "11",
-          "__object__": "A Clockwork Orange"
-        },
-        {
-          "second": "12",
-          "__object__": "Cinderella"
-        },
-        {
-          "second": "13",
-          "__object__": ""
-        },
-        {
-          "second": "14",
-          "__object__": ""
-        },
-        {
-          "second": "15",
-          "__object__": "Pulp Fiction"
-        },
-        {
-          "second": "16",
-          "__object__": ""
-        },
-        {
-          "second": "17",
-          "__object__": "Inglorious Bastards"
-        },
-        {
-          "second": "18",
-          "__object__": ""
-        },
-        {
-          "second": "19",
-          "__object__": ""
-        },
-        {
-          "second": "20",
-          "__object__": "Schindler's List"
-        },
-        {
-          "second": "21",
-          "__object__": ""
-        },
-        {
-          "second": "22",
-          "__object__": ""
-        },
-        {
-          "second": "23",
-          "__object__": ""
-        },
-        {
-          "second": "24",
-          "__object__": ""
-        },
-        {
-          "second": "25",
-          "__object__": ""
-        },
-        {
-          "second": "26",
-          "__object__": ""
-        },
-        {
-          "second": "27",
-          "__object__": "Harry Potter and the Prisoner of Azkaban"
-        },
-        {
-          "second": "28",
-          "__object__": ""
-        },
-        {
-          "second": "29",
-          "__object__": ""
-        },
-        {
-          "second": "30",
-          "__object__": ""
-        },
-        {
-          "second": "31",
-          "__object__": ""
-        },
-        {
-          "second": "32",
-          "__object__": ""
-        },
-        {
-          "second": "33",
-          "__object__": ""
-        },
-        {
-          "second": "34",
-          "__object__": ""
-        },
-        {
-          "second": "35",
-          "__object__": ""
-        },
-        {
-          "second": "36",
-          "__object__": ""
-        },
-        {
-          "second": "37",
-          "__object__": ""
-        },
-        {
-          "second": "38",
-          "__object__": ""
-        },
-        {
-          "second": "39",
-          "__object__": ""
-        },
-        {
-          "second": "40",
-          "__object__": ""
-        },
-        {
-          "second": "41",
-          "__object__": ""
-        },
-        {
-          "second": "42",
-          "__object__": ""
-        },
-        {
-          "second": "43",
-          "__object__": ""
-        },
-        {
-          "second": "44",
-          "__object__": ""
-        },
-        {
-          "second": "45",
-          "__object__": ""
-        },
-        {
-          "second": "46",
-          "__object__": ""
-        },
-        {
-          "second": "47",
-          "__object__": ""
-        },
-        {
-          "second": "48",
-          "__object__": ""
-        },
-        {
-          "second": "49",
-          "__object__": ""
-        },
-        {
-          "second": "50",
-          "__object__": ""
-        },
-        {
-          "second": "51",
-          "__object__": ""
-        },
-        {
-          "second": "52",
-          "__object__": ""
-        },
-        {
-          "second": "53",
-          "__object__": ""
-        },
-        {
-          "second": "54",
-          "__object__": ""
-        },
-        {
-          "second": "55",
-          "__object__": ""
-        },
-        {
-          "second": "56",
-          "__object__": ""
-        },
-        {
-          "second": "57",
-          "__object__": ""
-        },
-        {
-          "second": "58",
-          "__object__": ""
-        },
-        {
-          "second": "59",
-          "__object__": ""
-        },
-      ]
-    },
-    {
-      "minutes": "07",
       "seconds": [
         {
           "second": "00",
@@ -1962,7 +1227,7 @@
       ]
     },
     {
-      "minutes": "08",
+      "minutes": "06",
       "seconds": [
         {
           "second": "00",
@@ -2207,7 +1472,7 @@
       ]
     },
     {
-      "minutes": "09",
+      "minutes": "07",
       "seconds": [
         {
           "second": "00",
@@ -2452,31 +1717,31 @@
       ]
     },
     {
-      "minutes": "10",
+      "minutes": "08",
       "seconds": { "__object__": "Totalmente Demais" }
     },
     {
-      "minutes": "11",
+      "minutes": "09",
       "seconds": { "__object__": "Tapas e Beijos" }
     },
     {
-      "minutes": "12",
+      "minutes": "10",
       "seconds": { "__object__": "Eta Mundo Bom!" }
     },
     {
-      "minutes": "13",
+      "minutes": "11",
       "seconds": { "__object__": "Avenida Brasil" }
     },
     {
-      "minutes": "14",
+      "minutes": "12",
       "seconds": { "__object__": "Império" }
     },
     {
-      "minutes": "15",
+      "minutes": "13",
       "seconds": { "__object__": "Charlie Brown Jr. - Ritmo, Ritual e Responsa. (Album)" }
     },
     {
-      "minutes": "20",
+      "minutes": "14",
       "seconds": [
         {
           "second": "00",
@@ -2721,7 +1986,7 @@
       ]
     },
     {
-      "minutes": "21",
+      "minutes": "15",
       "seconds": [
         {
           "second": "00",

@@ -2,35 +2,35 @@
   "hour": "07",
   "minutes": [
     {
-      "minutes": ["00"\-"59"],
+      "minutes": "00",
       "seconds": [
         {
           "second": "00",
-          "__object__": "Black Eyed Peas - Pump It"
+          "__object__": ""
         },
         {
           "second": "01",
-          "__object__": "Justin Bieber - Never Say Never"
+          "__object__": ""
         },
         {
           "second": "02",
-          "__object__": "Harry Styles - Sign of the Times"
+          "__object__": ""
         },
         {
           "second": "03",
-          "__object__": "Adele - Set fire to the rain"
+          "__object__": ""
         },
         {
           "second": "04",
-          "__object__": "Rita Lee - Mania de você"
+          "__object__": ""
         },
         {
           "second": "05",
-          "__object__": "ROSÉ - On The Ground"
+          "__object__": ""
         },
         {
           "second": "06",
-          "__object__": "Hooverphonic - Anger Never Dies"
+          "__object__": ""
         },
         {
           "second": "07",
@@ -50,7 +50,7 @@
         },
         {
           "second": "11",
-          "__object__": "Avril Lavigne - Smile"
+          "__object__": ""
         },
         {
           "second": "12",
@@ -78,7 +78,7 @@
         },
         {
           "second": "18",
-          "__object__": "Timbaland - Give it to me (feat. Nelly Furtado & Justin Timberlake)"
+          "__object__": ""
         },
         {
           "second": "19",

@@ -248,7 +248,12 @@
     },
     {
       "minutes": "01",
-      "seconds": { "__object__": ["while - cielo", "while - \Übermacht"] }
+      "seconds": [
+        {
+          "second": "00",
+          "__object__": "while - cielo"
+        },
+      ]
     },
     {
       "minutes": "02",
@@ -259,76 +264,7 @@
         },
         {
           "second": "01",
-          "__object__": "Cazuza - Ideologia"
-        },
-        {
-          "second": "02",
-          "__object__": "Adriana Calcanhoto - Mais Feliz"
-        },
-        {
-          "second": "03",
-          "__object__": "Adiana Calcanhoto - Esquadros"
-        },
-        {
-          "second": "04",
-          "__object__": "Rita Lee - Lança Perfume"
-        },
-        {
-          "second": "05",
-          "__object__": "Legião Urbana - Indios"
-        },
-        {
-          "second": "06",
-          "__object__": "Legião Urabana - Será"
-        },
-        {
-          "second": "07",
-          "__object__": "Raul Seixas - Por quem os sinos dobam"
-        },
-        {
-          "second": "08",
-          "__object__": "Elis Regina E Tom Jobim - Águas de Março"
-        },
-      ]
-    },
-    {
-      "minutes": "03",
-      "seconds": [
-        {
-          "second": "00",
-          "__object__": "Charles Dickens - Great Expectations"
-        },
-        {
-          "second": "01",
-          "__object__": "Dante - The Divine Comedy"
-        },
-        {
-          "second": "02",
-          "__object__": "Plato - The Republic"
-        },
-        {
-          "second": "03",
-          "__object__": "Kant - Critique of Pure Reason"
-        },
-        {
-          "second": "04",
-          "__object__": "Kant - Critique of Pratical Reason"
-        },
-        {
-          "second": "05",
-          "__object__": "Aristotle - Politics"
-        },
-        {
-          "second": "06",
-          "__object__": "Aristotle - Metaphysics"
-        },
-        {
-          "second": "07",
-          "__object__": "Aristotle - Rhetoric"
-        },
-        {
-          "second": "08",
-          "__object__": "Antoine de Saint-Exupéry - Le Petit Prince"
+          "__object__": "Nelly Furtado - Say it Right"
         },
       ]
     },
