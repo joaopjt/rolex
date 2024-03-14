@@ -3,7 +3,23 @@
   "minutes": [
     {
       "minutes": "00",
-      "seconds": { "__object__": "" }
+      "seconds": { "__object__": "Chris Brown - Exclusive (album)" }
+    },
+    {
+      "minutes": "01",
+      "seconds": { "__object__": "Rihanna - Good Girl Gone Bad: Reloaded (album)" }
+    },
+    {
+      "minutes": "02",
+      "seconds": { "__object__": "Rihanna - Loud (album)" }
+    },
+    {
+      "minutes": "03",
+      "seconds": { "__object__": "Tears for Fears - Songs from the Big Chair (album)" }
+    },
+    {
+      "minutes": "04",
+      "seconds": { "__object__": "Black Sabbath - 13 (album)" }
     }
   ]
 }
