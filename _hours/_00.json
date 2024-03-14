@@ -741,251 +741,6 @@
       "seconds": [
         {
           "second": "00",
-          "__object__": ""
-        },
-        {
-          "second": "01",
-          "__object__": ""
-        },
-        {
-          "second": "02",
-          "__object__": ""
-        },
-        {
-          "second": "03",
-          "__object__": ""
-        },
-        {
-          "second": "04",
-          "__object__": ""
-        },
-        {
-          "second": "05",
-          "__object__": ""
-        },
-        {
-          "second": "06",
-          "__object__": ""
-        },
-        {
-          "second": "07",
-          "__object__": ""
-        },
-        {
-          "second": "08",
-          "__object__": ""
-        },
-        {
-          "second": "09",
-          "__object__": ""
-        },
-        {
-          "second": "10",
-          "__object__": ""
-        },
-        {
-          "second": "11",
-          "__object__": ""
-        },
-        {
-          "second": "12",
-          "__object__": ""
-        },
-        {
-          "second": "13",
-          "__object__": ""
-        },
-        {
-          "second": "14",
-          "__object__": ""
-        },
-        {
-          "second": "15",
-          "__object__": ""
-        },
-        {
-          "second": "16",
-          "__object__": ""
-        },
-        {
-          "second": "17",
-          "__object__": ""
-        },
-        {
-          "second": "18",
-          "__object__": ""
-        },
-        {
-          "second": "19",
-          "__object__": ""
-        },
-        {
-          "second": "20",
-          "__object__": ""
-        },
-        {
-          "second": "21",
-          "__object__": ""
-        },
-        {
-          "second": "22",
-          "__object__": ""
-        },
-        {
-          "second": "23",
-          "__object__": ""
-        },
-        {
-          "second": "24",
-          "__object__": ""
-        },
-        {
-          "second": "25",
-          "__object__": ""
-        },
-        {
-          "second": "26",
-          "__object__": ""
-        },
-        {
-          "second": "27",
-          "__object__": ""
-        },
-        {
-          "second": "28",
-          "__object__": ""
-        },
-        {
-          "second": "29",
-          "__object__": ""
-        },
-        {
-          "second": "30",
-          "__object__": ""
-        },
-        {
-          "second": "31",
-          "__object__": ""
-        },
-        {
-          "second": "32",
-          "__object__": ""
-        },
-        {
-          "second": "33",
-          "__object__": ""
-        },
-        {
-          "second": "34",
-          "__object__": ""
-        },
-        {
-          "second": "35",
-          "__object__": ""
-        },
-        {
-          "second": "36",
-          "__object__": ""
-        },
-        {
-          "second": "37",
-          "__object__": ""
-        },
-        {
-          "second": "38",
-          "__object__": ""
-        },
-        {
-          "second": "39",
-          "__object__": ""
-        },
-        {
-          "second": "40",
-          "__object__": ""
-        },
-        {
-          "second": "41",
-          "__object__": ""
-        },
-        {
-          "second": "42",
-          "__object__": ""
-        },
-        {
-          "second": "43",
-          "__object__": ""
-        },
-        {
-          "second": "44",
-          "__object__": ""
-        },
-        {
-          "second": "45",
-          "__object__": ""
-        },
-        {
-          "second": "46",
-          "__object__": ""
-        },
-        {
-          "second": "47",
-          "__object__": ""
-        },
-        {
-          "second": "48",
-          "__object__": ""
-        },
-        {
-          "second": "49",
-          "__object__": ""
-        },
-        {
-          "second": "50",
-          "__object__": ""
-        },
-        {
-          "second": "51",
-          "__object__": ""
-        },
-        {
-          "second": "52",
-          "__object__": ""
-        },
-        {
-          "second": "53",
-          "__object__": ""
-        },
-        {
-          "second": "54",
-          "__object__": ""
-        },
-        {
-          "second": "55",
-          "__object__": ""
-        },
-        {
-          "second": "56",
-          "__object__": ""
-        },
-        {
-          "second": "57",
-          "__object__": ""
-        },
-        {
-          "second": "58",
-          "__object__": ""
-        },
-        {
-          "second": "59",
-          "__object__": ""
-        },
-      ]
-    },
-    {
-      "minutes": "05",
-      "seconds": [
-        {
-          "second": "00",
           "__object__": "Californication S01E01"
         },
         {
@@ -1227,7 +982,7 @@
       ]
     },
     {
-      "minutes": "06",
+      "minutes": "05",
       "seconds": [
         {
           "second": "00",
@@ -1472,7 +1227,7 @@
       ]
     },
     {
-      "minutes": "07",
+      "minutes": "06",
       "seconds": [
         {
           "second": "00",
@@ -1717,31 +1472,31 @@
       ]
     },
     {
-      "minutes": "08",
+      "minutes": "07",
       "seconds": { "__object__": "Totalmente Demais" }
     },
     {
-      "minutes": "09",
+      "minutes": "08",
       "seconds": { "__object__": "Tapas e Beijos" }
     },
     {
-      "minutes": "10",
+      "minutes": "09",
       "seconds": { "__object__": "Eta Mundo Bom!" }
     },
     {
-      "minutes": "11",
+      "minutes": "10",
       "seconds": { "__object__": "Avenida Brasil" }
     },
     {
-      "minutes": "12",
+      "minutes": "11",
       "seconds": { "__object__": "Império" }
     },
     {
-      "minutes": "13",
+      "minutes": "12",
       "seconds": { "__object__": "Charlie Brown Jr. - Ritmo, Ritual e Responsa. (Album)" }
     },
     {
-      "minutes": "14",
+      "minutes": "13",
       "seconds": [
         {
           "second": "00",
@@ -1986,7 +1741,7 @@
       ]
     },
     {
-      "minutes": "15",
+      "minutes": "14",
       "seconds": [
         {
           "second": "00",
