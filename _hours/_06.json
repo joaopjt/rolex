@@ -2,6 +2,78 @@
   "hour": "06",
   "minutes": [
     {
+      "minutes": "00",
+      "seconds": { "__object__": "Literatura" }
+    },
+    {
+      "minutes": "01",
+      "seconds": { "__object__": "Humanismo" }
+    },
+    {
+      "minutes": "02",
+      "seconds": { "__object__": "Composição" }
+    },
+    {
+      "minutes": "03",
+      "seconds": { "__object__": "Expressão Oral" }
+    },
+    {
+      "minutes": "04",
+      "seconds": { "__object__": "Redação" }
+    },
+    {
+      "minutes": "05",
+      "seconds": { "__object__": "Gramática" }
+    },
+    {
+      "minutes": "06",
+      "seconds": { "__object__": "Compreensão Oral" }
+    },
+    {
+      "minutes": "07",
+      "seconds": { "__object__": "Álgebra" }
+    },
+    {
+      "minutes": "08",
+      "seconds": { "__object__": "Geometria" }
+    },
+    {
+      "minutes": "09",
+      "seconds": { "__object__": "Pré-Calculo" }
+    },
+    {
+      "minutes": "10",
+      "seconds": { "__object__": "Estátitica" }
+    },
+    {
+      "minutes": "11",
+      "seconds": { "__object__": "Biologia" }
+    },
+    {
+      "minutes": "12",
+      "seconds": { "__object__": "Quimica" }
+    },
+    {
+      "minutes": "13",
+      "seconds": { "__object__": "Fisica" }
+    },
+    {
+      "minutes": "14",
+      "seconds": { "__object__": "História" }
+    },
+    {
+      "minutes": "15",
+      "seconds": { "__object__": "Geografia" }
+    },
+    {
+      "minutes": "16",
+      "seconds": { "__object__": "Economia"
+    },
+    {
+      "minutes": "17",
+      "seconds": { "__object__": "Educação Fisica" }
+    },
+    {
       "minutes": "51",
       "seconds": { "__object__": "while.dot - 紫色 - Channel 8 - purple" }
     },
