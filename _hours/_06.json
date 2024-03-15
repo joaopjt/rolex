@@ -73,6 +73,47 @@
       "minutes": "17",
       "seconds": { "__object__": "Educação Fisica" }
     },
+
+    {
+      "minutes": "18",
+      "seconds": { "__object__": "Introduction to Computer Science and Programming" }
+    },
+    {
+      "minutes": "19",
+      "seconds": { "__object__": "Fundamentals of Programming" }
+    },
+    {
+      "minutes": "20",
+      "seconds": { "__object__": "Software Construction" }
+    },
+    {
+      "minutes": "21",
+      "seconds": { "__object__": "Mathematics for Computer Science" }
+    },
+    {
+      "minutes": "22",
+      "seconds": { "__object__": "Introduction to Algorithms" }
+    },
+    {
+      "minutes": "23",
+      "seconds": { "__object__": "Design and Analysis of Algorithms" }
+    },
+    {
+      "minutes": "24",
+      "seconds": { "__object__": "Computer Systems Engineering" }
+    },
+    {
+      "minutes": "25",
+      "seconds": { "__object__": "Introduction to Low-level Programming in C and Assembly" }
+    },
+    {
+      "minutes": "26",
+      "seconds": { "__object__": "Computation Structures" }
+    },
+    {
+      "minutes": "27",
+      "seconds": { "Linear Algebra" }
+    },
     {
       "minutes": "51",
       "seconds": { "__object__": "while.dot - 紫色 - Channel 8 - purple" }
