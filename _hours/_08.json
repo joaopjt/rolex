@@ -251,7 +251,15 @@
       "seconds": [
         {
           "second": "00",
-          "__object__": "while - cielo \ while - Ubermacht"
+          "__object__": "while - Ubermacht"
+        },
+        {
+          "second": "01",
+          "__object__": "while - hashcat"
+        },
+        {
+          "second": "00",
+          "__object__": "while - cielo"
         },
       ]
     },
