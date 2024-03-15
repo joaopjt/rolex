@@ -2,10 +2,6 @@
   "hour": "06",
   "minutes": [
     {
-      "minutes": "00",
-      "seconds": { "__object__": "" }
-    },
-    {
       "minutes": "51",
       "seconds": { "__object__": "while.dot - 紫色 - Channel 8 - purple" }
     },
