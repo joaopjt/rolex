@@ -1,5 +1,6 @@
 {
   "hour": "03",
+  "type": "thread",
   "minutes": [
     {
       "minutes": "00",
