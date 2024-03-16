@@ -4,7 +4,39 @@
   "minutes": [
     {
       "minutes": "00",
-      "seconds": { "__object__": "" }
+      "seconds": { "__object__": "Black Sabbath - End of the beginning" }
     },
-  ]
+    {
+      "minutes": "01",
+      "seconds": { "__object__": "Black Sabbath - God is dead?" }
+    },
+    {
+      "minutes": "02",
+      "seconds": { "__object__": "Black Sabbath - Loner" }
+    },
+    {
+      "minutes": "03",
+      "seconds": { "__object__": "Black Sabbath - Zeitgeist" }
+    },
+    {
+      "minutes": "04",
+      "seconds": { "__object__": "Black Sabbath - Age of Reason" }
+    },
+    {
+      "minutes": "05",
+      "seconds": { "__object__": "Black Sabbath - End of the beginning" }
+    },
+    {
+      "minutes": "06",
+      "seconds": { "__object__": "Black Sabbath - Live Forever" }
+    },
+    {
+      "minutes": "07",
+      "seconds": { "__object__": "Black Sabbath - Damaged Soul" }
+    },
+    {
+      "minutes": "08",
+      "seconds": { "__object__": "Black Sabbath - Dead Father" }
+    },
+ ]
 }
