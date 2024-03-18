@@ -4,15 +4,15 @@
   "minutes": [
     {
       "minutes": "00",
-      "seconds": {  "__object__": "北京 - Beijijg [United States of América] }
+      "seconds": {  "__object__": "北京 - Beijijg [United States of América]" }
     },  
     {
       "minutes": "01",
-      "seconds": {  "__object__": "北京 - Shanghai [Ukraine] }
+      "seconds": {  "__object__": "北京 - Shanghai [Ukraine]" }
     },
     {
       "minutes": "02",
-      "seconds": {  "__object__": "香港 - Shanghai [Afghanistan] }
+      "seconds": {  "__object__": "香港 - Shanghai [Afghanistan]" }
     }
   ]
 }
