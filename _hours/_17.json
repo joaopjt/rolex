@@ -1,0 +1,22 @@
+{
+  "hour": "17",
+  "type": "head",
+  "minutes": [
+    {
+      "minutes": "00",
+      "seconds": { "__object__": "武漢 - beijing [United States of América]" }
+    },
+    {
+      "minutes": "01",
+      "seconds": { "__object__": "武漢 - hong kong [Kazakhstan]" }
+    },
+    {
+      "minutes": "02",
+      "seconds": { "__object__": "武漢 - nanjing [Romania]" }
+    },
+    {
+      "minutes": "03",
+      "seconds": { "__object__": "武漢 - shanghai [South Africa]" }
+    }
+  ]
+}
