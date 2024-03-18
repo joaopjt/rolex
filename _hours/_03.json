@@ -4,43 +4,7 @@
   "minutes": [
     {
       "minutes": "00",
-      "seconds": { "__object__": "Hong Kong" }
+      "seconds": { "__object__": "" }
     },
-    {
-      "minutes": "01",
-      "seconds": { "__object__": "Shanghai" }
-    },
-    {
-      "minutes": "02",
-      "seconds": { "__object__": "Beijing" }
-    },
-    {
-      "minutes": "03",
-      "seconds": { "__object__": "Wuhan" }
-    },
-    {
-      "minutes": "04",
-      "seconds": { "__object__": "Chongqing" }
-    },
-    {
-      "minutes": "05",
-      "seconds": { "__object__": "Xi'An" }
-    },
-    {
-      "minutes": "06",
-      "seconds": { "__object__": "Yinchuan" }
-    },
-    {
-      "minutes": "07",
-      "seconds": { "__object__": "Jiuquan" }
-    },
-    {
-      "minutes": "08",
-      "seconds": { "__object__": "Qujing" }
-    },
-    {
-      "minutes": "09",
-      "seconds": { "__object__": "Kunming" }
-    }
   ]
 }
