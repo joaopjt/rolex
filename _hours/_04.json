@@ -9,67 +9,6 @@
     {
       "minutes": "01",
       "seconds": { "__object__": "" }
-    },
-    {
-      "minutes": "02",
-      "seconds": { "__object__": "" }
-    },
-    {
-      "minutes": "04",
-      "seconds": [
-        {
-          "second": "00",
-          "__object__": "Percussion"
-        },
-        {
-          "second": "01",
-          "__object__": "Double Bass"
-        },
-        {
-          "second": "02",
-          "__object__": "Harp"
-        },
-        {
-          "second": "03",
-          "__object__": "Cello"
-        },
-        {
-          "second": "04",
-          "__object__": "Cello"
-        },
-        {
-          "second": "05",
-          "__object__": "Viola"
-        },
-        {
-          "second": "06",
-          "__object__": "Flute"
-        },
-        {
-          "second": "07",
-          "__object__": "Violin"
-        },
-        {
-          "second": "08",
-          "__object__": "Violin"
-        },
-        {
-          "second": "09",
-          "__object__": "Oboe"
-        },
-        {
-          "second": "10",
-          "__object__": "Bassoon"
-        },
-        {
-          "second": "11",
-          "__object__": "Clarinet"
-        },
-        {
-          "second": "12",
-          "__object__": "French Horn"
-        }
-      ]
-    } 
+    },   
   ]
 }
