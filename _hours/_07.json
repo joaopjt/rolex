@@ -4,7 +4,27 @@
   "minutes": [
     {
       "minutes": "00",
-      "seconds": { "__object__": "" },
+      "seconds": { "__object__": "上海 - beijing [Brazil]" },
+    },
+    {
+      "minutes": "01",
+      "seconds": { "__object__": "上海 - hong kong [Ireland]" },
+    },
+    {
+      "minutes": "02",
+      "seconds": { "__object__": "上海 - nanjing [Venezuela]" },
+    },
+    {
+      "minutes": "03",
+      "seconds": { "__object__": "上海 - shanghai [India]" },
+    },
+    {
+      "minutes": "04",
+      "seconds": { "__object__": "上海 - wuhan [China]" },
+    },
+    {
+      "minutes": "05",
+      "seconds": { "__object__": "上海 - Xi'An [France]" },
     }
   ]
 }
