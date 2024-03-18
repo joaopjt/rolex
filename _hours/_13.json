@@ -1,0 +1,31 @@
+{
+  "hour": "13",
+  "type": "head",
+  "orientation": "reverse",
+  "minutes": [
+    {
+      "minutes": "00",
+      "seconds": { "__object__": "重慶 - beijing [United States of América]" }
+    },
+    {
+      "minutes": "01",
+      "seconds": { "__object__": "重慶 - hong kong [Germany]" }
+    },
+    {
+      "minutes": "02",
+      "seconds": { "__object__": "重慶 - nanjing [United Kingdom]" }
+    },
+    {
+      "minutes": "03",
+      "seconds": { "__object__": "重慶 - shanghai [Ukraine]" }
+    },
+    {
+      "minutes": "04",
+      "seconds": { "__object__": "重慶 - wuhan [Brazil]" }
+    },
+    {
+      "minutes": "05",
+      "seconds": { "__object__": "重慶 - Xi'An [Switzerland]" }
+    }
+  ]
+}
