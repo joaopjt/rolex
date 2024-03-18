@@ -1,5 +1,6 @@
 {
   "timecode": [
+    { "type": "head" },
     {
       "hour": "00",
       "minutes": "00",
