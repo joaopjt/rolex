@@ -737,5 +737,10 @@
         },
       ]
     },
+    {
+      "minutes": "03",
+      "type": "head",
+      "seconds": { "__object__": "Finland (SIEMENS)" }
+    } 
   ]
 }
