@@ -1,10 +1,14 @@
 {
   "hour": "20"
-  "type": "thread",
+  "type": "head",
   "minutes": [
     {
-      "minutes": "00",
-      "seconds": { "__object__": "" }
+      "minutes": "04",
+      "seconds": { "__object__": "SP - Brazil" }
+    }, 
+    {
+      "minutes": "05",
+      "seconds": { "__object__": "São Paulo - SP - Brazil" }
     }
   ]
 }
