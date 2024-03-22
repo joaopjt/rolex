@@ -1,31 +1,30 @@
 {
   "hour": "13",
-  "type": "head",
-  "orientation": "reverse",
+  "type": "thread",
   "minutes": [
     {
       "minutes": "00",
-      "seconds": { "__object__": "重慶 - beijing [United States of América]" }
+      "seconds": { "__object__": "" }
     },
     {
       "minutes": "01",
-      "seconds": { "__object__": "重慶 - hong kong [Germany]" }
+      "seconds": { "__object__": "" }
     },
     {
       "minutes": "02",
-      "seconds": { "__object__": "重慶 - nanjing [United Kingdom]" }
+      "seconds": { "__object__": "" }
     },
     {
       "minutes": "03",
-      "seconds": { "__object__": "重慶 - shanghai [Ukraine]" }
+      "seconds": { "__object__": "" }
     },
     {
       "minutes": "04",
-      "seconds": { "__object__": "重慶 - wuhan [Brazil]" }
+      "seconds": { "__object__": "" }
     },
     {
       "minutes": "05",
-      "seconds": { "__object__": "重慶 - Xi'An [Switzerland]" }
+      "seconds": { "__object__": "" }
     }
   ]
 }

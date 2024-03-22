@@ -4,19 +4,19 @@
   "minutes": [
     {
       "minutes": "00",
-      "seconds": { "__object__": "武漢 - beijing [United States of América]" }
+      "seconds": { "__object__": "" }
     },
     {
       "minutes": "01",
-      "seconds": { "__object__": "武漢 - hong kong [Kazakhstan]" }
+      "seconds": { "__object__": "" }
     },
     {
       "minutes": "02",
-      "seconds": { "__object__": "武漢 - nanjing [Romania]" }
+      "seconds": { "__object__": "" }
     },
     {
       "minutes": "03",
-      "seconds": { "__object__": "武漢 - shanghai [South Africa]" }
+      "seconds": { "__object__": "" }
     }
   ]
 }

@@ -4,11 +4,11 @@
   "minutes": [
     {
       "minutes": "04",
-      "seconds": { "__object__": "SP - Brazil" }
+      "seconds": { "__object__": "" }
     }, 
     {
       "minutes": "05",
-      "seconds": { "__object__": "São Paulo - SP - Brazil" }
+      "seconds": { "__object__": "" }
     }
   ]
 }

@@ -3,40 +3,8 @@
   "type": "head",
   "minutes": [
     {
-      "minutes": "51",
-      "seconds": { "__object__": "while.dot - 紫色 - Channel 8 - purple" }
-    },
-    {
-      "minutes": "52",
-      "seconds": { "__object__": "while.dot - 靛青 - Channel 7 - indigo" }
-    },
-    {
-      "minutes": "53",
-      "seconds": { "__object__": "while.dot - 基督教主義 - Channel 6 - orange" }
-    },
-    {
-      "minutes": "54",
-      "seconds": { "__object__": "while.dot - 武漢 - Channel 5 - red" }
-    },
-    {
-      "minutes": "55",
-      "seconds": { "__object__": "while.dot - 閃戰 - Channel 4 - blue" }
-    },
-    {
-      "minutes": "56",
-      "seconds": { "__object__": "while.dot - 閃光 - Channel 3 - green" }
-    },
-    {
-      "minutes": "57",
-      "seconds": { "__object__": "while.dot - 黃色巴士 - Channel 2 - yellow" }
-    },
-    {
-      "minutes": "58",
-      "seconds": { "__object__": "while.dot - 你不會惹中國人因為中國人不傻 - Channel 1 - gray" }
-    },
-    {
-      "minutes": "59",
-      "seconds": { "__object__": "while.dot - 而點 - Main Channel - white" }
+      "minutes": "00",
+      "seconds": { "__object__": "" }
     }
   ]
 }

@@ -4,20 +4,7 @@
   "minutes": [
     {
       "minutes": "00",
-      "seconds": { "__object__": "武漢 - hong kong [Kazakhstan]" },
-    },
-    {
-      "minutes": "01",
-      "seconds": { "__object__": "南京 - hong kong [Kyrgystan]" }
-    },
-    {
-      "minutes": "02",
-      "seconds": { "__object__": "南京 - beijing [Russia]" },
-    },
-    {
-      "minutes": "04",
-      "type": "head",
-      "seconds": { "__object__": "Finland (SIEMENS)" }
-    } 
+      "seconds": { "__object__": "" },
+    }
   ]
 }

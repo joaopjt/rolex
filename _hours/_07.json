@@ -3,27 +3,27 @@
   "type": "head",
   "minutes": [
     {
-      "minutes": "00",
+      "minutes": "54",
       "seconds": { "__object__": "上海 - beijing [Brazil]" },
     },
     {
-      "minutes": "01",
+      "minutes": "55",
       "seconds": { "__object__": "上海 - hong kong [Ireland]" },
     },
     {
-      "minutes": "02",
+      "minutes": "56",
       "seconds": { "__object__": "上海 - nanjing [Venezuela]" },
     },
     {
-      "minutes": "03",
+      "minutes": "57",
       "seconds": { "__object__": "上海 - shanghai [India]" },
     },
     {
-      "minutes": "04",
+      "minutes": "58",
       "seconds": { "__object__": "上海 - wuhan [China]" },
     },
     {
-      "minutes": "05",
+      "minutes": "59",
       "seconds": { "__object__": "上海 - Xi'An [France]" },
     }
   ]
