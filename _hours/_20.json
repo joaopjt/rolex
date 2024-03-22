@@ -3,11 +3,7 @@
   "minutes": [
     {
       "minutes": "00",
-      "seconds": { "__object__": "https://soundcloud.com/ricardo-villalobos-official" }
-    },
-    {
-      "minutes": "01",
-      "seconds": { "__object__": "Holst - The Planets" }
-    },
+      "seconds": { "__object__": "" }
+    }
   ]
 }
