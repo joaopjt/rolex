@@ -4,27 +4,7 @@
   "minutes": [
     {
       "minutes": "00",
-      "seconds": { "__object__": "Nelly Furtado - Say it Right" }
-    },
-    {
-      "minutes": "01",
-      "seconds": { "__object__": "Selena Gomez - Come and get it" }
-    },
-    {
-      "minutes": "02",
-      "seconds": { "__object__": "Justin Bieber - Beauty and a beat" }
-    },
-    {
-      "minutes": "03",
-      "seconds": { "__object__": "Keane - Everybodys changing" }
-    },
-    {
-      "minutes": "04",
-      "seconds": { "__object__": "Rihanna - Umbrella" }
-    },
-    {
-      "minutes": "05",
-      "seconds": { "__object__": "Chris Brown - With you" }
-    },
+      "seconds": { "__object__": "" }
+    }
   ]
 }
